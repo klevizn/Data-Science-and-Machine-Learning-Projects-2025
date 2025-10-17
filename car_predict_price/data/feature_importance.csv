@@ -1,0 +1,28 @@
+,index,Variable,Feature Importance Score
+0,0,Horsepower_No,0.2503
+1,6,Make_Ford,0.1239
+2,1,Torque_No,0.1146
+3,27,Engine Aspiration_Turbocharged,0.0882
+4,11,Body Size_Midsize,0.0419
+5,10,Body Size_Large,0.0389
+6,33,Drivetrain_RWD,0.0351
+7,21,Body Style_SUV,0.0319
+8,30,Drivetrain_4WD,0.0292
+9,25,Engine Aspiration_Naturally Aspirated,0.0271
+10,13,Body Style_Cargo Van,0.0251
+11,3,Make_Audi,0.0236
+12,22,Body Style_Sedan,0.0229
+13,7,Make_Mercedes-Benz,0.0226
+14,31,Drivetrain_AWD,0.0181
+15,9,Body Size_Compact,0.015
+16,20,Body Style_Pickup Truck,0.0147
+17,5,Make_Bentley,0.0127
+18,4,Make_BMW,0.0115
+19,28,Engine Aspiration_Twin-Turbo,0.0092
+20,14,Body Style_Convertible,0.0085
+21,8,Make_Nissan,0.0058
+22,24,Engine Aspiration_Electric Motor,0.0053
+23,16,Body Style_Coupe,0.0049
+24,19,Body Style_Passenger Van,0.0035
+25,15,Body Style_Convertible SUV,0.0028
+26,34,Transmission_automatic,0.0023

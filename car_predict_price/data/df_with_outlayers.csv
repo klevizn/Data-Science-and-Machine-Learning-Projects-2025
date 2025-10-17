@@ -1,0 +1,1611 @@
+Make,MSRP,Body Size,Body Style,Engine Aspiration,Drivetrain,Transmission,Horsepower_no,Torque_no
+Aston Martin,242000.0,Large,SUV,Twin-Turbo,AWD,automatic,697.0,663.0
+Audi,35800.0,Compact,Sedan,Turbocharged,FWD,automatic,201.0,221.0
+Audi,37800.0,Compact,Sedan,Turbocharged,AWD,automatic,201.0,221.0
+Audi,41400.0,Compact,Sedan,Turbocharged,AWD,automatic,201.0,221.0
+Audi,39400.0,Compact,Sedan,Turbocharged,FWD,automatic,201.0,221.0
+Audi,41900.0,Midsize,Sedan,Turbocharged,AWD,automatic,201.0,236.0
+Audi,46100.0,Midsize,Sedan,Turbocharged,AWD,automatic,201.0,236.0
+Audi,47700.0,Midsize,Sedan,Turbocharged,AWD,automatic,261.0,273.0
+Audi,44100.0,Midsize,Sedan,Turbocharged,AWD,automatic,261.0,273.0
+Audi,51300.0,Midsize,Sedan,Turbocharged,AWD,automatic,201.0,236.0
+Audi,52000.0,Midsize,Sedan,Turbocharged,AWD,automatic,261.0,273.0
+Audi,47600.0,Midsize,Wagon,Turbocharged,AWD,automatic,261.0,273.0
+Audi,51200.0,Midsize,Wagon,Turbocharged,AWD,automatic,261.0,273.0
+Audi,56500.0,Midsize,Wagon,Turbocharged,AWD,automatic,261.0,273.0
+Audi,46200.0,Midsize,Hatchback,Turbocharged,AWD,automatic,201.0,236.0
+Audi,50400.0,Midsize,Hatchback,Turbocharged,AWD,automatic,201.0,236.0
+Audi,52500.0,Midsize,Hatchback,Turbocharged,AWD,automatic,261.0,273.0
+Audi,52500.0,Midsize,Coupe,Turbocharged,AWD,automatic,261.0,273.0
+Audi,59700.0,Midsize,Convertible,Turbocharged,AWD,automatic,261.0,273.0
+Audi,48400.0,Midsize,Hatchback,Turbocharged,AWD,automatic,261.0,273.0
+Audi,48400.0,Midsize,Coupe,Turbocharged,AWD,automatic,261.0,273.0
+Audi,55600.0,Midsize,Convertible,Turbocharged,AWD,automatic,261.0,273.0
+Audi,55700.0,Midsize,Hatchback,Turbocharged,AWD,automatic,201.0,236.0
+Audi,56950.0,Midsize,Hatchback,Turbocharged,AWD,automatic,261.0,273.0
+Audi,56650.0,Midsize,Coupe,Turbocharged,AWD,automatic,261.0,273.0
+Audi,64700.0,Midsize,Convertible,Turbocharged,AWD,automatic,261.0,273.0
+Audi,58100.0,Large,Sedan,Turbocharged,AWD,automatic,261.0,273.0
+Audi,62600.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,61600.0,Large,Sedan,Turbocharged,AWD,automatic,261.0,273.0
+Audi,66100.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,71700.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,69300.0,Midsize,Wagon,Turbocharged,AWD,automatic,335.0,369.0
+Audi,74600.0,Midsize,Wagon,Turbocharged,AWD,automatic,335.0,369.0
+Audi,72000.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,76750.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,80550.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,90900.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,37400.0,Compact,SUV,Turbocharged,AWD,automatic,184.0,221.0
+Audi,40200.0,Compact,SUV,Turbocharged,AWD,automatic,184.0,221.0
+Audi,42600.0,Compact,SUV,Turbocharged,AWD,automatic,228.0,251.0
+Audi,39800.0,Compact,SUV,Turbocharged,AWD,automatic,228.0,251.0
+Audi,58200.0,Midsize,SUV,Electric Motor,AWD,automatic,295.0,339.0
+Audi,58200.0,Midsize,SUV,Electric Motor,AWD,automatic,335.0,335.0
+Audi,62900.0,Midsize,SUV,Electric Motor,AWD,automatic,295.0,339.0
+Audi,62900.0,Midsize,SUV,Electric Motor,AWD,automatic,335.0,335.0
+Audi,65200.0,Midsize,SUV,Electric Motor,AWD,automatic,295.0,339.0
+Audi,65200.0,Midsize,SUV,Electric Motor,AWD,automatic,335.0,335.0
+Audi,49800.0,Midsize,SUV,Electric Motor,RWD,automatic,201.0,229.0
+Audi,55200.0,Midsize,SUV,Electric Motor,AWD,automatic,295.0,339.0
+Audi,55200.0,Midsize,SUV,Electric Motor,AWD,automatic,335.0,335.0
+Audi,54500.0,Midsize,SUV,Electric Motor,RWD,automatic,201.0,229.0
+Audi,59900.0,Midsize,SUV,Electric Motor,AWD,automatic,295.0,339.0
+Audi,59900.0,Midsize,SUV,Electric Motor,AWD,automatic,335.0,335.0
+Audi,62200.0,Midsize,SUV,Electric Motor,AWD,automatic,295.0,339.0
+Audi,62200.0,Midsize,SUV,Electric Motor,AWD,automatic,335.0,335.0
+Audi,45300.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,236.0
+Audi,50100.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,236.0
+Audi,53000.0,Midsize,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,62400.0,Midsize,SUV,Turbocharged,AWD,automatic,362.0,369.0
+Audi,48200.0,Midsize,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,58500.0,Midsize,SUV,Turbocharged,AWD,automatic,362.0,369.0
+Audi,55600.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,236.0
+Audi,58100.0,Midsize,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,67700.0,Midsize,SUV,Turbocharged,AWD,automatic,362.0,369.0
+Audi,55400.0,Midsize,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,52200.0,Midsize,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,60400.0,Midsize,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,59500.0,Large,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,65300.0,Large,SUV,Turbocharged,AWD,automatic,335.0,369.0
+Audi,63300.0,Large,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,69100.0,Large,SUV,Turbocharged,AWD,automatic,335.0,369.0
+Audi,75100.0,Large,SUV,Turbocharged,AWD,automatic,335.0,369.0
+Audi,73700.0,Large,SUV,Turbocharged,AWD,automatic,335.0,369.0
+Audi,77800.0,Large,SUV,Turbocharged,AWD,automatic,335.0,369.0
+Audi,81800.0,Large,SUV,Turbocharged,AWD,automatic,335.0,369.0
+Audi,82200.0,Midsize,SUV,Electric Motor,AWD,automatic,402.0,335.0
+Audi,77800.0,Midsize,SUV,Electric Motor,AWD,automatic,402.0,335.0
+Audi,88200.0,Midsize,SUV,Electric Motor,AWD,automatic,402.0,335.0
+Audi,74400.0,Midsize,SUV,Electric Motor,AWD,automatic,402.0,335.0
+Audi,78800.0,Midsize,SUV,Electric Motor,AWD,automatic,402.0,335.0
+Audi,84800.0,Midsize,SUV,Electric Motor,AWD,automatic,402.0,335.0
+Audi,62300.0,Compact,Sedan,Turbocharged,AWD,automatic,401.0,369.0
+Audi,79600.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,444.0,442.0
+Audi,79900.0,Midsize,Hatchback,Twin-Turbo,AWD,automatic,444.0,442.0
+Audi,125800.0,Large,Wagon,Twin-Turbo,AWD,automatic,621.0,627.0
+Audi,127800.0,Large,Sedan,Twin-Turbo,AWD,automatic,621.0,627.0
+Audi,125800.0,Large,SUV,Twin-Turbo,AWD,automatic,591.0,590.0
+Audi,147100.0,Large,Sedan,Electric Motor,AWD,automatic,637.0,612.0
+Audi,47400.0,Compact,Sedan,Turbocharged,AWD,automatic,306.0,295.0
+Audi,50300.0,Compact,Sedan,Turbocharged,AWD,automatic,306.0,295.0
+Audi,54300.0,Compact,Sedan,Turbocharged,AWD,automatic,306.0,295.0
+Audi,54500.0,Midsize,Sedan,Turbocharged,AWD,automatic,349.0,369.0
+Audi,57500.0,Midsize,Sedan,Turbocharged,AWD,automatic,349.0,369.0
+Audi,61800.0,Midsize,Sedan,Turbocharged,AWD,automatic,349.0,369.0
+Audi,66100.0,Midsize,Convertible,Turbocharged,AWD,automatic,349.0,369.0
+Audi,57500.0,Midsize,Coupe,Turbocharged,AWD,automatic,349.0,369.0
+Audi,57500.0,Midsize,Hatchback,Turbocharged,AWD,automatic,349.0,369.0
+Audi,69100.0,Midsize,Convertible,Turbocharged,AWD,automatic,349.0,369.0
+Audi,60500.0,Midsize,Coupe,Turbocharged,AWD,automatic,349.0,369.0
+Audi,60500.0,Midsize,Hatchback,Turbocharged,AWD,automatic,349.0,369.0
+Audi,73200.0,Midsize,Convertible,Turbocharged,AWD,automatic,349.0,369.0
+Audi,64600.0,Midsize,Coupe,Turbocharged,AWD,automatic,349.0,369.0
+Audi,64900.0,Midsize,Hatchback,Turbocharged,AWD,automatic,349.0,369.0
+Audi,75500.0,Large,Sedan,Twincharged,AWD,automatic,444.0,442.0
+Audi,79800.0,Large,Sedan,Twincharged,AWD,automatic,444.0,442.0
+Audi,83700.0,Large,Sedan,Twincharged,AWD,automatic,444.0,442.0
+Audi,85300.0,Large,Sedan,Twincharged,AWD,automatic,444.0,442.0
+Audi,89100.0,Large,Sedan,Twincharged,AWD,automatic,444.0,442.0
+Audi,92700.0,Large,Sedan,Twincharged,AWD,automatic,444.0,442.0
+Audi,123400.0,Large,Sedan,Twin-Turbo,AWD,automatic,563.0,590.0
+Audi,57700.0,Midsize,SUV,Turbocharged,AWD,automatic,349.0,369.0
+Audi,61700.0,Midsize,SUV,Turbocharged,AWD,automatic,349.0,369.0
+Audi,66800.0,Midsize,SUV,Turbocharged,AWD,automatic,349.0,369.0
+Audi,61100.0,Midsize,SUV,Turbocharged,AWD,automatic,349.0,369.0
+Audi,64100.0,Midsize,SUV,Turbocharged,AWD,automatic,349.0,369.0
+Audi,69200.0,Midsize,SUV,Turbocharged,AWD,automatic,349.0,369.0
+Audi,90400.0,Large,SUV,Twin-Turbo,AWD,automatic,500.0,568.0
+Audi,94900.0,Large,SUV,Twin-Turbo,AWD,automatic,500.0,568.0
+Audi,96600.0,Large,SUV,Twin-Turbo,AWD,automatic,500.0,568.0
+Audi,103600.0,Large,SUV,Twin-Turbo,AWD,automatic,500.0,568.0
+Audi,92600.0,Midsize,SUV,Electric Motor,AWD,automatic,496.0,718.0
+Audi,98600.0,Midsize,SUV,Electric Motor,AWD,automatic,496.0,718.0
+Audi,89800.0,Midsize,SUV,Electric Motor,AWD,automatic,496.0,718.0
+Audi,95800.0,Midsize,SUV,Electric Motor,AWD,automatic,496.0,718.0
+Audi,106500.0,Large,Sedan,Electric Motor,AWD,automatic,522.0,472.0
+Audi,114500.0,Large,Sedan,Electric Motor,AWD,automatic,522.0,472.0
+BMW,38800.0,Compact,Coupe,Turbocharged,RWD,automatic,255.0,295.0
+BMW,40800.0,Compact,Coupe,Turbocharged,AWD,automatic,255.0,295.0
+BMW,49700.0,Compact,Coupe,Turbocharged,RWD,automatic,382.0,369.0
+BMW,51700.0,Compact,Coupe,Turbocharged,AWD,automatic,382.0,369.0
+BMW,38400.0,Compact,Sedan,Turbocharged,FWD,automatic,228.0,258.0
+BMW,40400.0,Compact,Sedan,Turbocharged,AWD,automatic,228.0,258.0
+BMW,48300.0,Compact,Sedan,Turbocharged,AWD,automatic,302.0,332.0
+BMW,45600.0,Midsize,Sedan,Turbocharged,RWD,automatic,288.0,310.0
+BMW,47600.0,Midsize,Sedan,Turbocharged,AWD,automatic,288.0,310.0
+BMW,44500.0,Midsize,Sedan,Turbocharged,RWD,automatic,255.0,295.0
+BMW,46500.0,Midsize,Sedan,Turbocharged,AWD,automatic,255.0,295.0
+BMW,57600.0,Midsize,Sedan,Turbocharged,RWD,automatic,382.0,369.0
+BMW,59600.0,Midsize,Sedan,Turbocharged,AWD,automatic,382.0,369.0
+BMW,49900.0,Midsize,Coupe,Turbocharged,RWD,automatic,255.0,295.0
+BMW,58100.0,Midsize,Convertible,Turbocharged,RWD,automatic,255.0,295.0
+BMW,51900.0,Midsize,Coupe,Turbocharged,AWD,automatic,255.0,295.0
+BMW,60100.0,Midsize,Convertible,Turbocharged,AWD,automatic,255.0,295.0
+BMW,61450.0,Midsize,Coupe,Turbocharged,RWD,automatic,382.0,369.0
+BMW,69550.0,Midsize,Convertible,Turbocharged,RWD,automatic,382.0,369.0
+BMW,63450.0,Midsize,Coupe,Turbocharged,AWD,automatic,382.0,369.0
+BMW,71550.0,Midsize,Convertible,Turbocharged,AWD,automatic,382.0,369.0
+BMW,48300.0,Midsize,Sedan,Turbocharged,RWD,automatic,255.0,295.0
+BMW,50300.0,Midsize,Sedan,Turbocharged,AWD,automatic,255.0,295.0
+BMW,61050.0,Midsize,Sedan,Turbocharged,RWD,automatic,382.0,369.0
+BMW,63050.0,Midsize,Sedan,Turbocharged,AWD,automatic,382.0,369.0
+BMW,57900.0,Large,Sedan,Turbocharged,RWD,automatic,255.0,295.0
+BMW,60200.0,Large,Sedan,Turbocharged,AWD,automatic,255.0,295.0
+BMW,64900.0,Large,Sedan,Turbocharged,AWD,automatic,375.0,382.0
+BMW,96400.0,Large,Sedan,Turbocharged,RWD,automatic,375.0,398.0
+BMW,99400.0,Large,Sedan,Turbocharged,AWD,automatic,375.0,398.0
+BMW,107000.0,Large,Sedan,Turbocharged,AWD,automatic,483.0,479.0
+BMW,121300.0,Large,Sedan,Twin-Turbo,AWD,automatic,536.0,553.0
+BMW,90800.0,Midsize,Coupe,Turbocharged,RWD,automatic,335.0,369.0
+BMW,100500.0,Midsize,Convertible,Turbocharged,RWD,automatic,335.0,369.0
+BMW,103500.0,Midsize,Convertible,Turbocharged,AWD,automatic,335.0,369.0
+BMW,93800.0,Midsize,Coupe,Turbocharged,AWD,automatic,335.0,369.0
+BMW,116000.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,106300.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,90800.0,Large,Sedan,Turbocharged,RWD,automatic,335.0,369.0
+BMW,93800.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+BMW,106300.0,Large,Sedan,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,149300.0,Large,Sedan,Twin-Turbo,AWD,automatic,612.0,590.0
+BMW,149400.0,Large,SUV,Twin-Turbo,AWD,automatic,630.0,590.0
+BMW,63200.0,Compact,Coupe,Twin-Turbo,RWD,manual,453.0,406.0
+BMW,76000.0,Midsize,Sedan,Twin-Turbo,RWD,manual,473.0,406.0
+BMW,80200.0,Midsize,Sedan,Twin-Turbo,RWD,automatic,503.0,479.0
+BMW,84300.0,Midsize,Sedan,Twin-Turbo,AWD,automatic,503.0,479.0
+BMW,118700.0,Midsize,Sedan,Twin-Turbo,AWD,automatic,543.0,479.0
+BMW,78100.0,Midsize,Coupe,Twin-Turbo,RWD,manual,473.0,406.0
+BMW,82200.0,Midsize,Coupe,Twin-Turbo,RWD,automatic,503.0,479.0
+BMW,86300.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,503.0,479.0
+BMW,93300.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,503.0,479.0
+BMW,138800.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,617.0,553.0
+BMW,148800.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,617.0,553.0
+BMW,138800.0,Large,Sedan,Twin-Turbo,AWD,automatic,617.0,553.0
+BMW,49900.0,Compact,SUV,Turbocharged,AWD,automatic,312.0,295.0
+BMW,40500.0,Compact,SUV,Turbocharged,AWD,automatic,241.0,295.0
+BMW,51400.0,Compact,SUV,Turbocharged,AWD,automatic,312.0,295.0
+BMW,42000.0,Compact,SUV,Turbocharged,AWD,automatic,241.0,295.0
+BMW,61900.0,Midsize,SUV,Turbocharged,AWD,automatic,382.0,369.0
+BMW,46900.0,Midsize,SUV,Turbocharged,RWD,automatic,248.0,258.0
+BMW,48900.0,Midsize,SUV,Turbocharged,AWD,automatic,248.0,258.0
+BMW,75500.0,Midsize,SUV,Twin-Turbo,AWD,automatic,473.0,457.0
+BMW,66400.0,Midsize,SUV,Turbocharged,AWD,automatic,382.0,369.0
+BMW,55000.0,Midsize,SUV,Turbocharged,AWD,automatic,248.0,258.0
+BMW,79100.0,Midsize,SUV,Twin-Turbo,AWD,automatic,473.0,457.0
+BMW,89300.0,Large,SUV,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,65200.0,Large,SUV,Turbocharged,RWD,automatic,375.0,398.0
+BMW,67500.0,Large,SUV,Turbocharged,AWD,automatic,375.0,398.0
+BMW,72500.0,Large,SUV,Turbocharged,AWD,automatic,483.0,516.0
+BMW,122300.0,Large,SUV,Twin-Turbo,AWD,automatic,617.0,553.0
+BMW,93600.0,Large,SUV,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,73900.0,Large,SUV,Turbocharged,AWD,automatic,375.0,398.0
+BMW,127200.0,Large,SUV,Twin-Turbo,AWD,automatic,617.0,553.0
+BMW,108700.0,Large,SUV,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,81900.0,Large,SUV,Turbocharged,AWD,automatic,375.0,398.0
+BMW,159000.0,Large,SUV,Twin-Turbo,AWD,automatic,644.0,590.0
+BMW,185000.0,Large,SUV,Twin-Turbo,AWD,automatic,738.0,738.0
+BMW,66300.0,Compact,Convertible,Turbocharged,RWD,automatic,382.0,369.0
+BMW,53600.0,Compact,Convertible,Turbocharged,RWD,automatic,255.0,295.0
+BMW,69700.0,Midsize,Sedan,Electric Motor,AWD,automatic,536.0,586.0
+BMW,52200.0,Midsize,Sedan,Electric Motor,RWD,automatic,282.0,295.0
+BMW,57300.0,Midsize,Sedan,Electric Motor,RWD,automatic,335.0,317.0
+BMW,61600.0,Midsize,Sedan,Electric Motor,AWD,automatic,396.0,443.0
+BMW,84100.0,Large,Sedan,Electric Motor,AWD,automatic,590.0,586.0
+BMW,66800.0,Large,Sedan,Electric Motor,RWD,automatic,335.0,295.0
+BMW,168500.0,Large,Sedan,Electric Motor,AWD,automatic,650.0,811.0
+BMW,105700.0,Large,Sedan,Electric Motor,RWD,automatic,449.0,479.0
+BMW,124200.0,Large,Sedan,Electric Motor,AWD,automatic,536.0,549.0
+BMW,111500.0,Large,SUV,Electric Motor,AWD,automatic,610.0,749.0
+BMW,87100.0,Large,SUV,Electric Motor,AWD,automatic,516.0,564.0
+Bentley,215300.0,Large,SUV,Turbocharged,AWD,automatic,456.0,516.0
+Bentley,215300.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,238200.0,Large,SUV,Turbocharged,AWD,automatic,456.0,516.0
+Bentley,246400.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,203200.0,Large,SUV,Turbocharged,AWD,automatic,456.0,516.0
+Bentley,232300.0,Large,SUV,Turbocharged,AWD,automatic,456.0,516.0
+Bentley,240300.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,203200.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,242100.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,271400.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,336000.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,233700.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,259300.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,291300.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,315800.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,355600.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,650.0,664.0
+Bentley,274000.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,300000.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,650.0,664.0
+Bentley,336000.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,650.0,664.0
+Bentley,242700.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,281600.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,320300.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,336000.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,391100.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,650.0,664.0
+Bentley,301300.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,330000.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,650.0,664.0
+Bentley,367200.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,650.0,664.0
+Bentley,267000.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,235800.0,Large,Sedan,Twin-Turbo,AWD,automatic,536.0,553.0
+Bentley,229100.0,Large,Sedan,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,256600.0,Large,Sedan,Twin-Turbo,AWD,automatic,536.0,553.0
+Bentley,257800.0,Large,Sedan,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,221200.0,Large,Sedan,Twin-Turbo,AWD,automatic,536.0,553.0
+Bentley,306300.0,Large,Sedan,Twin-Turbo,AWD,automatic,536.0,553.0
+Bentley,308200.0,Large,Sedan,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,324700.0,Large,Sedan,Twin-Turbo,AWD,automatic,626.0,664.0
+Bentley,247700.0,Large,Sedan,Twin-Turbo,AWD,automatic,536.0,553.0
+Bentley,248400.0,Large,Sedan,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,266500.0,Large,Sedan,Twin-Turbo,AWD,automatic,626.0,664.0
+Bentley,300200.0,Large,Sedan,Twin-Turbo,AWD,automatic,626.0,664.0
+Bentley,214900.0,Large,Sedan,Twin-Turbo,AWD,automatic,542.0,568.0
+Ford,50095.0,Compact,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,51385.0,Midsize,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,39630.0,Compact,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,40370.0,Midsize,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,43330.0,Compact,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,44070.0,Midsize,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,55520.0,Midsize,Convertible SUV,Turbocharged,4WD,automatic,300.0,325.0
+Ford,48555.0,Compact,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,49475.0,Midsize,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,69685.0,Compact,Convertible SUV,Twin-Turbo,4WD,automatic,330.0,415.0
+Ford,71105.0,Midsize,Convertible SUV,Twin-Turbo,4WD,automatic,330.0,415.0
+Ford,47940.0,Midsize,Convertible SUV,Turbocharged,4WD,automatic,300.0,325.0
+Ford,90035.0,Midsize,Convertible SUV,Twin-Turbo,4WD,automatic,418.0,440.0
+Ford,60765.0,Midsize,Convertible SUV,Twin-Turbo,4WD,automatic,330.0,415.0
+Ford,60225.0,Compact,Convertible SUV,Twin-Turbo,4WD,automatic,330.0,415.0
+Ford,38390.0,Compact,SUV,Turbocharged,AWD,automatic,250.0,277.0
+Ford,29795.0,Compact,SUV,Turbocharged,AWD,automatic,181.0,190.0
+Ford,32395.0,Compact,SUV,Turbocharged,AWD,automatic,181.0,190.0
+Ford,32365.0,Compact,SUV,Turbocharged,AWD,automatic,181.0,190.0
+Ford,33935.0,Compact,SUV,Turbocharged,AWD,automatic,181.0,190.0
+Ford,54835.0,Large,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,56055.0,Large,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,59935.0,Large,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,61155.0,Large,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,52835.0,Midsize,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,57935.0,Midsize,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,51490.0,Midsize,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,53835.0,Large,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,58935.0,Large,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,38365.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,39565.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,47205.0,Midsize,SUV,Twin-Turbo,AWD,automatic,335.0,380.0
+Ford,43620.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,43720.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,29345.0,Midsize,SUV,Turbocharged,FWD,automatic,180.0,199.0
+Ford,31515.0,Midsize,SUV,Turbocharged,AWD,automatic,180.0,199.0
+Ford,28000.0,Midsize,SUV,Turbocharged,FWD,automatic,180.0,199.0
+Ford,29500.0,Midsize,SUV,Turbocharged,AWD,automatic,180.0,199.0
+Ford,38465.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,192.0,300.0
+Ford,36965.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,192.0,300.0
+Ford,37465.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,40500.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,210.0,300.0
+Ford,33340.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,192.0,300.0
+Ford,32510.0,Midsize,SUV,Turbocharged,AWD,automatic,180.0,199.0
+Ford,30340.0,Midsize,SUV,Turbocharged,FWD,automatic,180.0,199.0
+Ford,38460.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,39460.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,192.0,300.0
+Ford,35040.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,192.0,300.0
+Ford,34040.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,79015.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,480.0
+Ford,82315.0,Large,SUV,Twin-Turbo,4WD,automatic,400.0,480.0
+Ford,72260.0,Large,SUV,Twin-Turbo,4WD,automatic,400.0,480.0
+Ford,68960.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,480.0
+Ford,82015.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,480.0
+Ford,85315.0,Large,SUV,Twin-Turbo,4WD,automatic,400.0,480.0
+Ford,71960.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,480.0
+Ford,75260.0,Large,SUV,Twin-Turbo,4WD,automatic,400.0,480.0
+Ford,84245.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,480.0
+Ford,87545.0,Large,SUV,Twin-Turbo,4WD,automatic,400.0,480.0
+Ford,62405.0,Large,SUV,Twin-Turbo,4WD,automatic,380.0,470.0
+Ford,59105.0,Large,SUV,Twin-Turbo,RWD,automatic,380.0,470.0
+Ford,63140.0,Large,SUV,Twin-Turbo,RWD,automatic,380.0,470.0
+Ford,66440.0,Large,SUV,Twin-Turbo,4WD,automatic,380.0,470.0
+Ford,84545.0,Large,SUV,Twin-Turbo,4WD,automatic,400.0,480.0
+Ford,81245.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,480.0
+Ford,72550.0,Large,SUV,Twin-Turbo,4WD,automatic,440.0,510.0
+Ford,55105.0,Large,SUV,Twin-Turbo,RWD,automatic,380.0,470.0
+Ford,58405.0,Large,SUV,Twin-Turbo,4WD,automatic,380.0,470.0
+Ford,59375.0,Large,SUV,Twin-Turbo,4WD,automatic,380.0,470.0
+Ford,56075.0,Large,SUV,Twin-Turbo,RWD,automatic,380.0,470.0
+Ford,63440.0,Large,SUV,Twin-Turbo,4WD,automatic,380.0,470.0
+Ford,60140.0,Large,SUV,Twin-Turbo,RWD,automatic,380.0,470.0
+Ford,36860.0,Large,SUV,Turbocharged,RWD,automatic,300.0,310.0
+Ford,38860.0,Large,SUV,Turbocharged,AWD,automatic,300.0,310.0
+Ford,54625.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,415.0
+Ford,56625.0,Large,SUV,Twin-Turbo,AWD,automatic,400.0,415.0
+Ford,49520.0,Large,SUV,Turbocharged,AWD,automatic,300.0,310.0
+Ford,47520.0,Large,SUV,Turbocharged,RWD,automatic,300.0,310.0
+Ford,54770.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,415.0
+Ford,56770.0,Large,SUV,Twin-Turbo,AWD,automatic,400.0,415.0
+Ford,52105.0,Large,SUV,Twin-Turbo,AWD,automatic,400.0,415.0
+Ford,50105.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,415.0
+Ford,48455.0,Large,SUV,Turbocharged,AWD,automatic,300.0,310.0
+Ford,46455.0,Large,SUV,Turbocharged,RWD,automatic,300.0,310.0
+Ford,49330.0,Large,SUV,Turbocharged,AWD,automatic,300.0,310.0
+Ford,38670.0,Large,SUV,Turbocharged,RWD,automatic,300.0,310.0
+Ford,40670.0,Large,SUV,Turbocharged,AWD,automatic,300.0,310.0
+Ford,73845.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,400.0,500.0
+Ford,74150.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,400.0,500.0
+Ford,65395.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,66000.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,74150.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,400.0,500.0
+Ford,73845.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,400.0,500.0
+Ford,78440.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,450.0,510.0
+Ford,48335.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,52215.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,325.0,400.0
+Ford,46000.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,49800.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,325.0,400.0
+Ford,64350.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,41980.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,41285.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,41990.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,325.0,400.0
+Ford,36965.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,400.0,410.0
+Ford,47500.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,325.0,400.0
+Ford,43620.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,49600.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,45085.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,325.0,400.0
+Ford,36975.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,53950.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,325.0,400.0
+Ford,51530.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,325.0,400.0
+Ford,56030.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,50090.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,47730.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,67995.0,Large,Pickup Truck,Electric Motor,4WD,automatic,300.0,300.0
+Ford,76995.0,Large,Pickup Truck,Electric Motor,4WD,automatic,300.0,300.0
+Ford,84995.0,Large,Pickup Truck,Electric Motor,4WD,automatic,300.0,300.0
+Ford,54995.0,Large,Pickup Truck,Electric Motor,4WD,automatic,300.0,300.0
+Ford,62995.0,Large,Pickup Truck,Electric Motor,4WD,automatic,300.0,300.0
+Ford,77175.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,76975.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,64940.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,62410.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,62610.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,64740.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,97295.0,Large,Pickup Truck,Turbocharged,4WD,automatic,500.0,120.0
+Ford,97095.0,Large,Pickup Truck,Turbocharged,4WD,automatic,500.0,120.0
+Ford,78065.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,77865.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,47305.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,47505.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,50095.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,50305.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,47760.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,48960.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,51560.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,48760.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,51770.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,44970.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,53955.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,53755.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,51105.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,55510.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,55715.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,78220.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,79160.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,78025.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,63660.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,67480.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,63460.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,65145.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,65790.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,65990.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,100280.0,Large,Pickup Truck,Turbocharged,4WD,automatic,500.0,120.0
+Ford,98270.0,Large,Pickup Truck,Turbocharged,4WD,automatic,500.0,120.0
+Ford,98470.0,Large,Pickup Truck,Turbocharged,4WD,automatic,500.0,120.0
+Ford,79115.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,81145.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,78915.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,61495.0,Large,Pickup Truck,Turbocharged,RWD,automatic,475.0,105.0
+Ford,54300.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,60040.0,Large,Pickup Truck,Turbocharged,RWD,automatic,475.0,105.0
+Ford,48815.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,50015.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,52830.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,50305.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,49815.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,52620.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,48345.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,48555.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,51155.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,51345.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,52815.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,46015.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,47505.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,53115.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,54800.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,55010.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,52160.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,57610.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,55840.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,56560.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,56760.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,92090.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,79665.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,104030.0,Large,Pickup Truck,Turbocharged,4WD,automatic,500.0,120.0
+Ford,93535.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,62765.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,64455.0,Large,Pickup Truck,Turbocharged,RWD,automatic,475.0,105.0
+Ford,67925.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,59455.0,Large,Pickup Truck,Turbocharged,RWD,automatic,475.0,105.0
+Ford,66695.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,70035.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,34960.0,Compact,Pickup Truck,Turbocharged,AWD,automatic,250.0,277.0
+Ford,23920.0,Compact,Pickup Truck,Turbocharged,FWD,automatic,250.0,277.0
+Ford,26420.0,Compact,Pickup Truck,Turbocharged,FWD,automatic,250.0,277.0
+Ford,58185.0,Midsize,Coupe,Naturally Aspirated,RWD,manual,500.0,418.0
+Ford,30920.0,Midsize,Coupe,Turbocharged,RWD,automatic,315.0,350.0
+Ford,39020.0,Midsize,Convertible,Turbocharged,RWD,automatic,315.0,350.0
+Ford,41945.0,Midsize,Convertible,Turbocharged,RWD,automatic,315.0,350.0
+Ford,36445.0,Midsize,Coupe,Turbocharged,RWD,automatic,315.0,350.0
+Ford,41960.0,Midsize,Coupe,Naturally Aspirated,RWD,manual,480.0,486.0
+Ford,46480.0,Midsize,Coupe,Naturally Aspirated,RWD,manual,480.0,486.0
+Ford,51980.0,Midsize,Convertible,Naturally Aspirated,RWD,manual,480.0,486.0
+Ford,53995.0,Midsize,Hatchback,Electric Motor,AWD,automatic,480.0,634.0
+Ford,46995.0,Midsize,Hatchback,Electric Motor,AWD,automatic,311.0,427.0
+Ford,43995.0,Midsize,Hatchback,Electric Motor,RWD,automatic,266.0,317.0
+Ford,39995.0,Midsize,Hatchback,Electric Motor,RWD,automatic,266.0,317.0
+Ford,43495.0,Midsize,Hatchback,Electric Motor,AWD,automatic,311.0,427.0
+Ford,47115.0,Compact,Pickup Truck,Turbocharged,4WD,automatic,270.0,310.0
+Ford,43630.0,Compact,Pickup Truck,Turbocharged,RWD,automatic,270.0,310.0
+Ford,55470.0,Compact,Pickup Truck,Twin-Turbo,4WD,automatic,405.0,430.0
+Ford,36315.0,Compact,Pickup Truck,Turbocharged,4WD,automatic,270.0,310.0
+Ford,32670.0,Compact,Pickup Truck,Turbocharged,RWD,automatic,270.0,310.0
+Ford,36110.0,Compact,Pickup Truck,Turbocharged,RWD,automatic,270.0,310.0
+Ford,39595.0,Compact,Pickup Truck,Turbocharged,4WD,automatic,270.0,310.0
+Ford,48235.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,52430.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,46890.0,Midsize,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,51085.0,Midsize,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,49235.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,53425.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,55375.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,56600.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,51185.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,52405.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,49180.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,47835.0,Midsize,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,52035.0,Midsize,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,53380.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,50185.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,54380.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,54250.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,61690.0,Large,Cargo Van,Twin-Turbo,AWD,automatic,310.0,400.0
+Ford,56605.0,Large,Cargo Van,Twin-Turbo,RWD,automatic,310.0,400.0
+Ford,58835.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,57850.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,53655.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,56630.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,52435.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,53655.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,57850.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,52435.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,56630.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,53280.0,Midsize,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,54630.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,49090.0,Midsize,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,50435.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,54630.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,50435.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,55625.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,51435.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,55625.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,51435.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,62415.0,Large,Passenger Van,Twin-Turbo,AWD,automatic,310.0,400.0
+Ford,64175.0,Large,Passenger Van,Twin-Turbo,AWD,automatic,310.0,400.0
+Ford,58035.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,55220.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,59415.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,53620.0,Midsize,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,54500.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,58695.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,61175.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,56985.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,59580.0,Midsize,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,56260.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,60450.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Mercedes-Benz,98950.0,Large,Sedan,Turbocharged,AWD,automatic,362.0,369.0
+Mercedes-Benz,109450.0,Large,Sedan,Twincharged,AWD,automatic,429.0,384.0
+Mercedes-Benz,134900.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,469.0,516.0
+Mercedes-Benz,153350.0,Large,Sedan,Twin-Turbo,AWD,automatic,577.0,590.0
+Mercedes-Benz,175900.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,577.0,590.0
+Mercedes-Benz,194900.0,Large,Sedan,Twin-Turbo,AWD,automatic,831.0,103.0
+Mercedes-Benz,60700.0,Midsize,Sedan,Turbocharged,AWD,automatic,402.0,369.0
+Mercedes-Benz,83900.0,Midsize,Sedan,Turbocharged,AWD,automatic,671.0,752.0
+Mercedes-Benz,46950.0,Midsize,Sedan,Turbocharged,RWD,automatic,255.0,295.0
+Mercedes-Benz,48950.0,Midsize,Sedan,Turbocharged,AWD,automatic,255.0,295.0
+Mercedes-Benz,54950.0,Midsize,Sedan,Turbocharged,AWD,automatic,302.0,295.0
+Mercedes-Benz,65400.0,Midsize,Sedan,Turbocharged,AWD,automatic,416.0,369.0
+Mercedes-Benz,43200.0,Midsize,Sedan,Turbocharged,FWD,automatic,221.0,258.0
+Mercedes-Benz,45200.0,Midsize,Sedan,Turbocharged,AWD,automatic,221.0,258.0
+Mercedes-Benz,72800.0,Midsize,Coupe,Twincharged,AWD,automatic,443.0,413.0
+Mercedes-Benz,56500.0,Midsize,Coupe,Turbocharged,AWD,automatic,255.0,295.0
+Mercedes-Benz,64350.0,Midsize,Convertible,Turbocharged,AWD,automatic,255.0,295.0
+Mercedes-Benz,65650.0,Midsize,Coupe,Turbocharged,AWD,automatic,375.0,369.0
+Mercedes-Benz,73850.0,Midsize,Convertible,Turbocharged,AWD,automatic,375.0,369.0
+Mercedes-Benz,62300.0,Large,Sedan,Turbocharged,AWD,automatic,255.0,295.0
+Mercedes-Benz,68100.0,Large,Sedan,Turbocharged,AWD,automatic,375.0,369.0
+Mercedes-Benz,74700.0,Large,Wagon,Turbocharged,AWD,automatic,375.0,369.0
+Mercedes-Benz,52750.0,Midsize,SUV,Electric Motor,FWD,automatic,188.0,284.0
+Mercedes-Benz,56900.0,Midsize,SUV,Electric Motor,AWD,automatic,225.0,288.0
+Mercedes-Benz,60550.0,Midsize,SUV,Electric Motor,AWD,automatic,288.0,384.0
+Mercedes-Benz,106900.0,Large,Sedan,Electric Motor,AWD,automatic,617.0,701.0
+Mercedes-Benz,77900.0,Large,Sedan,Electric Motor,AWD,automatic,288.0,417.0
+Mercedes-Benz,74900.0,Large,Sedan,Electric Motor,RWD,automatic,288.0,564.0
+Mercedes-Benz,85900.0,Large,Sedan,Electric Motor,AWD,automatic,402.0,633.0
+Mercedes-Benz,109300.0,Large,SUV,Electric Motor,AWD,automatic,617.0,701.0
+Mercedes-Benz,77900.0,Large,SUV,Electric Motor,AWD,automatic,288.0,564.0
+Mercedes-Benz,77900.0,Large,SUV,Electric Motor,RWD,automatic,288.0,417.0
+Mercedes-Benz,89500.0,Large,SUV,Electric Motor,AWD,automatic,402.0,633.0
+Mercedes-Benz,147550.0,Large,Sedan,Electric Motor,AWD,automatic,649.0,700.0
+Mercedes-Benz,107400.0,Large,Sedan,Electric Motor,AWD,automatic,355.0,590.0
+Mercedes-Benz,104400.0,Large,Sedan,Electric Motor,RWD,automatic,355.0,590.0
+Mercedes-Benz,127350.0,Large,Sedan,Electric Motor,AWD,automatic,536.0,633.0
+Mercedes-Benz,107400.0,Large,SUV,Electric Motor,AWD,automatic,355.0,590.0
+Mercedes-Benz,104400.0,Large,SUV,Electric Motor,RWD,automatic,355.0,419.0
+Mercedes-Benz,127350.0,Large,SUV,Electric Motor,AWD,automatic,536.0,633.0
+Mercedes-Benz,183000.0,Midsize,SUV,Twin-Turbo,4WD,automatic,577.0,627.0
+Mercedes-Benz,357000.0,Midsize,SUV,Twin-Turbo,4WD,automatic,577.0,627.0
+Mercedes-Benz,143000.0,Midsize,SUV,Twin-Turbo,4WD,automatic,416.0,450.0
+Mercedes-Benz,56450.0,Compact,SUV,Turbocharged,AWD,automatic,302.0,295.0
+Mercedes-Benz,41850.0,Compact,SUV,Turbocharged,FWD,automatic,221.0,258.0
+Mercedes-Benz,43850.0,Compact,SUV,Turbocharged,AWD,automatic,221.0,258.0
+Mercedes-Benz,59050.0,Midsize,SUV,Turbocharged,AWD,automatic,302.0,295.0
+Mercedes-Benz,44450.0,Midsize,SUV,Turbocharged,FWD,automatic,221.0,258.0
+Mercedes-Benz,46450.0,Midsize,SUV,Turbocharged,AWD,automatic,221.0,258.0
+Mercedes-Benz,64950.0,Midsize,SUV,Turbocharged,AWD,automatic,416.0,369.0
+Mercedes-Benz,47450.0,Midsize,SUV,Turbocharged,RWD,automatic,255.0,295.0
+Mercedes-Benz,49450.0,Midsize,SUV,Turbocharged,AWD,automatic,255.0,295.0
+Mercedes-Benz,70600.0,Midsize,SUV,Turbocharged,AWD,automatic,416.0,369.0
+Mercedes-Benz,57000.0,Midsize,SUV,Turbocharged,AWD,automatic,255.0,295.0
+Mercedes-Benz,86750.0,Large,SUV,Twincharged,AWD,automatic,429.0,384.0
+Mercedes-Benz,127700.0,Large,SUV,Twin-Turbo,AWD,automatic,603.0,627.0
+Mercedes-Benz,62650.0,Large,SUV,Turbocharged,AWD,automatic,255.0,295.0
+Mercedes-Benz,69500.0,Large,SUV,Turbocharged,AWD,automatic,375.0,369.0
+Mercedes-Benz,69500.0,Large,SUV,Turbocharged,AWD,automatic,381.0,479.0
+Mercedes-Benz,86700.0,Large,SUV,Twin-Turbo,AWD,automatic,510.0,538.0
+Mercedes-Benz,89800.0,Large,SUV,Twincharged,AWD,automatic,429.0,384.0
+Mercedes-Benz,129050.0,Large,SUV,Twin-Turbo,AWD,automatic,603.0,627.0
+Mercedes-Benz,145850.0,Large,SUV,Twincharged,AWD,automatic,603.0,627.0
+Mercedes-Benz,87000.0,Large,SUV,Turbocharged,AWD,automatic,375.0,369.0
+Mercedes-Benz,112000.0,Large,SUV,Twin-Turbo,AWD,automatic,510.0,538.0
+Mercedes-Benz,198300.0,Large,Sedan,Twin-Turbo,AWD,automatic,496.0,516.0
+Mercedes-Benz,234300.0,Large,Sedan,Twin-Turbo,AWD,automatic,621.0,664.0
+Mercedes-Benz,179900.0,Large,SUV,Electric Motor,AWD,automatic,649.0,700.0
+Mercedes-Benz,174350.0,Large,SUV,Twin-Turbo,AWD,automatic,550.0,538.0
+Mercedes-Benz,182250.0,Large,Sedan,Twin-Turbo,AWD,automatic,791.0,105.0
+Mercedes-Benz,117300.0,Large,Sedan,Twincharged,AWD,automatic,442.0,413.0
+Mercedes-Benz,128150.0,Large,Sedan,Twin-Turbo,AWD,automatic,496.0,516.0
+Mercedes-Benz,127750.0,Large,Sedan,Turbocharged,AWD,automatic,510.0,553.0
+Mercedes-Benz,109900.0,Midsize,Convertible,Turbocharged,RWD,automatic,375.0,354.0
+Mercedes-Benz,141300.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,469.0,516.0
+Mercedes-Benz,183000.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,577.0,590.0
+Mercedes-Benz,59400.0,Large,Cargo Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,52700.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,49900.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,54920.0,Midsize,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,52120.0,Midsize,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,61620.0,Midsize,Passenger Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,55800.0,Compact,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,58600.0,Compact,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,65300.0,Compact,Passenger Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,66000.0,Large,Cargo Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,58900.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,59300.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,56500.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,61700.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,68400.0,Large,Cargo Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,68920.0,Large,Passenger Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,62220.0,Large,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,59420.0,Large,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,65200.0,Compact,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,68000.0,Compact,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,52800.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,55600.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,59400.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,64600.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,61800.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,62200.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,65200.0,Midsize,Cargo Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,58500.0,Midsize,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,74200.0,Large,Cargo Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,67500.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,71700.0,Large,Cargo Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,65100.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,61000.0,Midsize,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,70000.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,67600.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,71886.0,Large,Cargo Van,Electric Motor,RWD,automatic,134.0,295.0
+Mercedes-Benz,75316.0,Large,Cargo Van,Electric Motor,RWD,automatic,201.0,295.0
+Nissan,47690.0,Midsize,SUV,Electric Motor,FWD,automatic,238.0,221.0
+Nissan,39590.0,Midsize,SUV,Electric Motor,FWD,automatic,214.0,221.0
+Nissan,43590.0,Midsize,SUV,Electric Motor,AWD,automatic,335.0,413.0
+Nissan,45190.0,Midsize,SUV,Electric Motor,AWD,automatic,389.0,442.0
+Nissan,44190.0,Midsize,SUV,Electric Motor,FWD,automatic,238.0,221.0
+Nissan,48190.0,Midsize,SUV,Electric Motor,AWD,automatic,389.0,442.0
+Nissan,54190.0,Midsize,SUV,Electric Motor,AWD,automatic,389.0,442.0
+Nissan,54190.0,Midsize,SUV,Electric Motor,AWD,automatic,389.0,442.0
+Nissan,41190.0,Midsize,SUV,Electric Motor,FWD,automatic,214.0,221.0
+Nissan,26000.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,188.0,180.0
+Nissan,32700.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,188.0,180.0
+Nissan,34200.0,Midsize,Sedan,Naturally Aspirated,AWD,automatic,182.0,178.0
+Nissan,28200.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,188.0,180.0
+Nissan,29700.0,Midsize,Sedan,Naturally Aspirated,AWD,automatic,182.0,178.0
+Nissan,28300.0,Midsize,Sedan,Naturally Aspirated,AWD,automatic,182.0,178.0
+Nissan,26800.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,188.0,180.0
+Nissan,35700.0,Midsize,Sedan,Turbocharged,FWD,automatic,248.0,273.0
+Nissan,67790.0,Large,SUV,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,70790.0,Large,SUV,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,62540.0,Large,SUV,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,59540.0,Large,SUV,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,55720.0,Large,SUV,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,58720.0,Large,SUV,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,39560.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,36560.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,30030.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,33230.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,31330.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,34330.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,42900.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,39900.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,35930.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,32730.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,36960.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,39960.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,34130.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,37130.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,221090.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,600.0,481.0
+Nissan,121090.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,565.0,467.0
+Nissan,141090.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,565.0,467.0
+Nissan,21050.0,Compact,Hatchback,Naturally Aspirated,FWD,automatic,122.0,114.0
+Nissan,23610.0,Compact,Hatchback,Naturally Aspirated,FWD,automatic,122.0,114.0
+Nissan,22910.0,Compact,Hatchback,Naturally Aspirated,FWD,automatic,122.0,114.0
+Nissan,28140.0,Compact,Hatchback,Electric Motor,FWD,automatic,147.0,236.0
+Nissan,36190.0,Compact,Hatchback,Electric Motor,FWD,automatic,214.0,250.0
+Nissan,46200.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,260.0,240.0
+Nissan,47900.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,260.0,240.0
+Nissan,43850.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,260.0,240.0
+Nissan,42150.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,260.0,240.0
+Nissan,38190.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,260.0,240.0
+Nissan,39890.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,260.0,240.0
+Nissan,50950.0,Large,SUV,Naturally Aspirated,4WD,automatic,284.0,259.0
+Nissan,49050.0,Large,SUV,Naturally Aspirated,FWD,automatic,284.0,259.0
+Nissan,43900.0,Large,SUV,Naturally Aspirated,4WD,automatic,295.0,270.0
+Nissan,36080.0,Large,SUV,Naturally Aspirated,FWD,automatic,284.0,259.0
+Nissan,37980.0,Large,SUV,Naturally Aspirated,4WD,automatic,284.0,259.0
+Nissan,44400.0,Large,SUV,Naturally Aspirated,4WD,automatic,284.0,259.0
+Nissan,42500.0,Large,SUV,Naturally Aspirated,FWD,automatic,284.0,259.0
+Nissan,38900.0,Large,SUV,Naturally Aspirated,FWD,automatic,284.0,259.0
+Nissan,40800.0,Large,SUV,Naturally Aspirated,4WD,automatic,284.0,259.0
+Nissan,38700.0,Midsize,SUV,Turbocharged,FWD,automatic,201.0,225.0
+Nissan,40200.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,225.0
+Nissan,28420.0,Midsize,SUV,Turbocharged,FWD,automatic,201.0,225.0
+Nissan,29920.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,225.0
+Nissan,35270.0,Midsize,SUV,Turbocharged,FWD,automatic,201.0,225.0
+Nissan,36770.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,225.0
+Nissan,31610.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,225.0
+Nissan,30110.0,Midsize,SUV,Turbocharged,FWD,automatic,201.0,225.0
+Nissan,20890.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,149.0,146.0
+Nissan,23980.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,149.0,146.0
+Nissan,21820.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,149.0,146.0
+Nissan,53850.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,63020.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,59710.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,49410.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,46040.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,49230.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,58160.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,66110.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,52200.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,16680.0,Compact,Sedan,Naturally Aspirated,FWD,manual,122.0,114.0
+Nissan,18350.0,Compact,Sedan,Naturally Aspirated,FWD,automatic,122.0,114.0
+Nissan,20690.0,Compact,Sedan,Naturally Aspirated,FWD,automatic,122.0,114.0
+Nissan,19970.0,Compact,Sedan,Naturally Aspirated,FWD,automatic,122.0,114.0
+Nissan,65090.0,Compact,Coupe,Twin-Turbo,RWD,automatic,420.0,384.0
+Nissan,52310.0,Compact,Coupe,Twin-Turbo,RWD,automatic,400.0,350.0
+Nissan,52310.0,Compact,Coupe,Twin-Turbo,RWD,manual,400.0,350.0
+Nissan,42310.0,Compact,Coupe,Twin-Turbo,RWD,automatic,400.0,350.0
+Nissan,42310.0,Compact,Coupe,Twin-Turbo,RWD,manual,400.0,350.0
+Aston Martin,217000.0,Midsize,Coupe,Twin-Turbo,RWD,automatic,528.0,497.0
+Aston Martin,233200.0,Midsize,Convertible,Twin-Turbo,RWD,automatic,528.0,497.0
+Aston Martin,236000.0,Large,SUV,Twin-Turbo,AWD,automatic,697.0,663.0
+Aston Martin,148200.0,Compact,Coupe,Twin-Turbo,RWD,automatic,503.0,505.0
+Aston Martin,187000.0,Compact,Convertible,Twin-Turbo,RWD,automatic,528.0,505.0
+Aston Martin,159800.0,Compact,Convertible,Twin-Turbo,RWD,automatic,503.0,505.0
+Aston Martin,298200.0,Compact,Coupe,Twin-Turbo,RWD,automatic,690.0,555.0
+Aston Martin,348700.0,Compact,Convertible,Twin-Turbo,RWD,automatic,690.0,555.0
+Audi,35400.0,Compact,Sedan,Turbocharged,FWD,automatic,201.0,221.0
+Audi,37400.0,Compact,Sedan,Turbocharged,AWD,automatic,201.0,221.0
+Audi,38800.0,Compact,Sedan,Turbocharged,FWD,automatic,201.0,221.0
+Audi,40800.0,Compact,Sedan,Turbocharged,AWD,automatic,201.0,221.0
+Audi,40300.0,Midsize,Sedan,Turbocharged,AWD,automatic,201.0,236.0
+Audi,45400.0,Midsize,Sedan,Turbocharged,AWD,automatic,201.0,236.0
+Audi,47000.0,Midsize,Sedan,Turbocharged,AWD,automatic,261.0,273.0
+Audi,42400.0,Midsize,Sedan,Turbocharged,AWD,automatic,261.0,273.0
+Audi,50600.0,Midsize,Sedan,Turbocharged,AWD,automatic,201.0,236.0
+Audi,51300.0,Midsize,Sedan,Turbocharged,AWD,automatic,261.0,273.0
+Audi,45900.0,Midsize,Wagon,Turbocharged,AWD,automatic,261.0,273.0
+Audi,50500.0,Midsize,Wagon,Turbocharged,AWD,automatic,261.0,273.0
+Audi,55800.0,Midsize,Wagon,Turbocharged,AWD,automatic,261.0,273.0
+Audi,44600.0,Midsize,Hatchback,Turbocharged,AWD,automatic,201.0,236.0
+Audi,49700.0,Midsize,Hatchback,Turbocharged,AWD,automatic,201.0,236.0
+Audi,51800.0,Midsize,Coupe,Turbocharged,AWD,automatic,261.0,273.0
+Audi,59000.0,Midsize,Convertible,Turbocharged,AWD,automatic,261.0,273.0
+Audi,51800.0,Midsize,Hatchback,Turbocharged,AWD,automatic,261.0,273.0
+Audi,46700.0,Midsize,Coupe,Turbocharged,AWD,automatic,261.0,273.0
+Audi,53900.0,Midsize,Convertible,Turbocharged,AWD,automatic,261.0,273.0
+Audi,46700.0,Midsize,Hatchback,Turbocharged,AWD,automatic,261.0,273.0
+Audi,55000.0,Midsize,Hatchback,Turbocharged,AWD,automatic,201.0,236.0
+Audi,55950.0,Midsize,Coupe,Turbocharged,AWD,automatic,261.0,273.0
+Audi,64000.0,Midsize,Convertible,Turbocharged,AWD,automatic,261.0,273.0
+Audi,56250.0,Midsize,Hatchback,Turbocharged,AWD,automatic,261.0,273.0
+Audi,56900.0,Large,Sedan,Turbocharged,AWD,automatic,261.0,273.0
+Audi,60800.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,60800.0,Large,Sedan,Turbocharged,AWD,automatic,261.0,273.0
+Audi,64700.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,70500.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,67900.0,Midsize,Wagon,Turbocharged,AWD,automatic,335.0,369.0
+Audi,73400.0,Midsize,Wagon,Turbocharged,AWD,automatic,335.0,369.0
+Audi,70200.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,75350.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,79350.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,87800.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,369.0
+Audi,36800.0,Compact,SUV,Turbocharged,AWD,automatic,184.0,221.0
+Audi,40100.0,Compact,SUV,Turbocharged,AWD,automatic,184.0,221.0
+Audi,42500.0,Compact,SUV,Turbocharged,AWD,automatic,228.0,251.0
+Audi,39200.0,Compact,SUV,Turbocharged,AWD,automatic,228.0,251.0
+Audi,58200.0,Midsize,SUV,Electric Motor,AWD,automatic,295.0,339.0
+Audi,64400.0,Midsize,SUV,Electric Motor,AWD,automatic,295.0,339.0
+Audi,65900.0,Midsize,SUV,Electric Motor,AWD,automatic,295.0,339.0
+Audi,49800.0,Midsize,SUV,Electric Motor,RWD,automatic,201.0,229.0
+Audi,55200.0,Midsize,SUV,Electric Motor,AWD,automatic,295.0,339.0
+Audi,56000.0,Midsize,SUV,Electric Motor,RWD,automatic,201.0,229.0
+Audi,61400.0,Midsize,SUV,Electric Motor,AWD,automatic,295.0,339.0
+Audi,62900.0,Midsize,SUV,Electric Motor,AWD,automatic,295.0,339.0
+Audi,44200.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,236.0
+Audi,49400.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,236.0
+Audi,51900.0,Midsize,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,61700.0,Midsize,SUV,Turbocharged,AWD,automatic,362.0,369.0
+Audi,46700.0,Midsize,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,57400.0,Midsize,SUV,Turbocharged,AWD,automatic,362.0,369.0
+Audi,54900.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,236.0
+Audi,57400.0,Midsize,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,67000.0,Midsize,SUV,Turbocharged,AWD,automatic,362.0,369.0
+Audi,54600.0,Midsize,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,51000.0,Midsize,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,59700.0,Midsize,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,59200.0,Large,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,64800.0,Large,SUV,Turbocharged,AWD,automatic,335.0,369.0
+Audi,63300.0,Large,SUV,Turbocharged,AWD,automatic,261.0,273.0
+Audi,68400.0,Large,SUV,Turbocharged,AWD,automatic,335.0,369.0
+Audi,74400.0,Large,SUV,Turbocharged,AWD,automatic,335.0,369.0
+Audi,72800.0,Large,SUV,Turbocharged,AWD,automatic,335.0,369.0
+Audi,77300.0,Large,SUV,Turbocharged,AWD,automatic,335.0,369.0
+Audi,83100.0,Large,SUV,Turbocharged,AWD,automatic,335.0,369.0
+Audi,249900.0,Compact,Coupe,Naturally Aspirated,RWD,automatic,602.0,413.0
+Audi,158600.0,Compact,Coupe,Naturally Aspirated,RWD,automatic,562.0,406.0
+Audi,209700.0,Compact,Coupe,Naturally Aspirated,AWD,automatic,602.0,413.0
+Audi,171000.0,Compact,Convertible,Naturally Aspirated,RWD,automatic,562.0,406.0
+Audi,222100.0,Compact,Convertible,Naturally Aspirated,AWD,automatic,602.0,413.0
+Audi,60900.0,Compact,Sedan,Turbocharged,AWD,automatic,401.0,369.0
+Audi,77900.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,444.0,442.0
+Audi,78200.0,Midsize,Hatchback,Twin-Turbo,AWD,automatic,444.0,442.0
+Audi,121900.0,Large,Wagon,Twin-Turbo,AWD,automatic,591.0,590.0
+Audi,123900.0,Large,Sedan,Twin-Turbo,AWD,automatic,591.0,590.0
+Audi,125800.0,Large,SUV,Twin-Turbo,AWD,automatic,591.0,590.0
+Audi,143900.0,Large,Sedan,Electric Motor,AWD,automatic,637.0,612.0
+Audi,46800.0,Compact,Sedan,Turbocharged,AWD,automatic,306.0,295.0
+Audi,49500.0,Compact,Sedan,Turbocharged,AWD,automatic,306.0,295.0
+Audi,53500.0,Compact,Sedan,Turbocharged,AWD,automatic,306.0,295.0
+Audi,52800.0,Midsize,Sedan,Turbocharged,AWD,automatic,349.0,369.0
+Audi,56800.0,Midsize,Sedan,Turbocharged,AWD,automatic,349.0,369.0
+Audi,61100.0,Midsize,Sedan,Turbocharged,AWD,automatic,349.0,369.0
+Audi,55800.0,Midsize,Hatchback,Turbocharged,AWD,automatic,349.0,369.0
+Audi,64400.0,Midsize,Convertible,Turbocharged,AWD,automatic,349.0,369.0
+Audi,55800.0,Midsize,Coupe,Turbocharged,AWD,automatic,349.0,369.0
+Audi,68400.0,Midsize,Convertible,Turbocharged,AWD,automatic,349.0,369.0
+Audi,59800.0,Midsize,Coupe,Turbocharged,AWD,automatic,349.0,369.0
+Audi,59800.0,Midsize,Hatchback,Turbocharged,AWD,automatic,349.0,369.0
+Audi,72500.0,Midsize,Convertible,Turbocharged,AWD,automatic,349.0,369.0
+Audi,63900.0,Midsize,Coupe,Turbocharged,AWD,automatic,349.0,369.0
+Audi,64200.0,Midsize,Hatchback,Turbocharged,AWD,automatic,349.0,369.0
+Audi,73700.0,Large,Sedan,Twincharged,AWD,automatic,444.0,442.0
+Audi,78400.0,Large,Sedan,Twincharged,AWD,automatic,444.0,442.0
+Audi,82500.0,Large,Sedan,Twincharged,AWD,automatic,444.0,442.0
+Audi,83500.0,Large,Sedan,Twincharged,AWD,automatic,444.0,442.0
+Audi,87700.0,Large,Sedan,Twincharged,AWD,automatic,444.0,442.0
+Audi,91500.0,Large,Sedan,Twincharged,AWD,automatic,444.0,442.0
+Audi,120500.0,Large,Sedan,Twin-Turbo,AWD,automatic,563.0,590.0
+Audi,56500.0,Midsize,SUV,Turbocharged,AWD,automatic,349.0,369.0
+Audi,60900.0,Midsize,SUV,Turbocharged,AWD,automatic,349.0,369.0
+Audi,66100.0,Midsize,SUV,Turbocharged,AWD,automatic,349.0,369.0
+Audi,59900.0,Midsize,SUV,Turbocharged,AWD,automatic,349.0,369.0
+Audi,63300.0,Midsize,SUV,Turbocharged,AWD,automatic,349.0,369.0
+Audi,68500.0,Midsize,SUV,Turbocharged,AWD,automatic,349.0,369.0
+Audi,90200.0,Large,SUV,Twin-Turbo,AWD,automatic,500.0,568.0
+Audi,94900.0,Large,SUV,Twin-Turbo,AWD,automatic,500.0,568.0
+Audi,95500.0,Large,SUV,Twin-Turbo,AWD,automatic,500.0,568.0
+Audi,101500.0,Large,SUV,Twin-Turbo,AWD,automatic,500.0,568.0
+Audi,52200.0,Compact,Coupe,Turbocharged,AWD,automatic,228.0,258.0
+Audi,56300.0,Compact,Convertible,Turbocharged,AWD,automatic,228.0,258.0
+Audi,61900.0,Compact,Coupe,Turbocharged,AWD,automatic,288.0,280.0
+Audi,86400.0,Midsize,SUV,Electric Motor,AWD,automatic,402.0,490.0
+Audi,70800.0,Midsize,SUV,Electric Motor,AWD,automatic,402.0,490.0
+Audi,77800.0,Midsize,SUV,Electric Motor,AWD,automatic,402.0,490.0
+Audi,104900.0,Large,Sedan,Electric Motor,AWD,automatic,522.0,472.0
+Audi,111300.0,Large,Sedan,Electric Motor,AWD,automatic,522.0,472.0
+Audi,88200.0,Midsize,SUV,Electric Motor,AWD,automatic,496.0,717.0
+Audi,95300.0,Midsize,SUV,Electric Motor,AWD,automatic,496.0,717.0
+Audi,90800.0,Midsize,SUV,Electric Motor,AWD,automatic,496.0,717.0
+Audi,97900.0,Midsize,SUV,Electric Motor,AWD,automatic,496.0,717.0
+Audi,81000.0,Midsize,SUV,Electric Motor,AWD,automatic,402.0,490.0
+Audi,74000.0,Midsize,SUV,Electric Motor,AWD,automatic,402.0,490.0
+Audi,89300.0,Midsize,SUV,Electric Motor,AWD,automatic,402.0,490.0
+BMW,38200.0,Compact,Coupe,Turbocharged,RWD,automatic,255.0,295.0
+BMW,40200.0,Compact,Coupe,Turbocharged,AWD,automatic,255.0,295.0
+BMW,48900.0,Compact,Coupe,Turbocharged,RWD,automatic,382.0,369.0
+BMW,50900.0,Compact,Coupe,Turbocharged,AWD,automatic,382.0,369.0
+BMW,36600.0,Compact,Sedan,Turbocharged,FWD,automatic,228.0,258.0
+BMW,38600.0,Compact,Sedan,Turbocharged,AWD,automatic,228.0,258.0
+BMW,46400.0,Compact,Sedan,Turbocharged,AWD,automatic,302.0,331.0
+BMW,44900.0,Midsize,Sedan,Turbocharged,RWD,automatic,288.0,310.0
+BMW,46900.0,Midsize,Sedan,Turbocharged,AWD,automatic,288.0,310.0
+BMW,43800.0,Midsize,Sedan,Turbocharged,RWD,automatic,255.0,295.0
+BMW,45800.0,Midsize,Sedan,Turbocharged,AWD,automatic,255.0,295.0
+BMW,56400.0,Midsize,Sedan,Turbocharged,RWD,automatic,382.0,368.0
+BMW,58400.0,Midsize,Sedan,Turbocharged,AWD,automatic,382.0,368.0
+BMW,47400.0,Midsize,Coupe,Turbocharged,RWD,automatic,255.0,295.0
+BMW,55500.0,Midsize,Convertible,Turbocharged,RWD,automatic,255.0,295.0
+BMW,57500.0,Midsize,Convertible,Turbocharged,AWD,automatic,255.0,295.0
+BMW,49400.0,Midsize,Coupe,Turbocharged,AWD,automatic,255.0,295.0
+BMW,66250.0,Midsize,Convertible,Turbocharged,RWD,automatic,382.0,369.0
+BMW,58250.0,Midsize,Coupe,Turbocharged,RWD,automatic,382.0,369.0
+BMW,68250.0,Midsize,Convertible,Turbocharged,AWD,automatic,382.0,369.0
+BMW,60250.0,Midsize,Coupe,Turbocharged,AWD,automatic,382.0,369.0
+BMW,45900.0,Midsize,Sedan,Turbocharged,RWD,automatic,255.0,294.0
+BMW,47900.0,Midsize,Sedan,Turbocharged,AWD,automatic,255.0,294.0
+BMW,57450.0,Midsize,Sedan,Turbocharged,RWD,automatic,382.0,369.0
+BMW,59450.0,Midsize,Sedan,Turbocharged,AWD,automatic,382.0,369.0
+BMW,56400.0,Large,Sedan,Turbocharged,RWD,automatic,288.0,310.0
+BMW,58700.0,Large,Sedan,Turbocharged,AWD,automatic,288.0,310.0
+BMW,54800.0,Large,Sedan,Turbocharged,RWD,automatic,248.0,257.0
+BMW,57100.0,Large,Sedan,Turbocharged,AWD,automatic,248.0,257.0
+BMW,61600.0,Large,Sedan,Turbocharged,RWD,automatic,335.0,331.0
+BMW,63900.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,331.0
+BMW,79900.0,Large,Sedan,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,93300.0,Large,Sedan,Turbocharged,RWD,automatic,375.0,383.0
+BMW,113600.0,Large,Sedan,Twin-Turbo,AWD,automatic,536.0,553.0
+BMW,97100.0,Midsize,Convertible,Turbocharged,RWD,automatic,335.0,368.0
+BMW,87500.0,Midsize,Coupe,Turbocharged,RWD,automatic,335.0,368.0
+BMW,90400.0,Midsize,Coupe,Turbocharged,AWD,automatic,335.0,368.0
+BMW,100000.0,Midsize,Convertible,Turbocharged,AWD,automatic,335.0,368.0
+BMW,102500.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,112100.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,87500.0,Large,Sedan,Turbocharged,RWD,automatic,335.0,368.0
+BMW,90400.0,Large,Sedan,Turbocharged,AWD,automatic,335.0,368.0
+BMW,102500.0,Large,Sedan,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,144900.0,Large,Sedan,Twin-Turbo,AWD,automatic,612.0,590.0
+BMW,145000.0,Large,SUV,Twin-Turbo,AWD,automatic,630.0,590.0
+BMW,62200.0,Compact,Coupe,Twin-Turbo,RWD,manual,453.0,406.0
+BMW,72800.0,Midsize,Sedan,Twin-Turbo,RWD,manual,473.0,406.0
+BMW,76700.0,Midsize,Sedan,Twin-Turbo,RWD,automatic,503.0,479.0
+BMW,80800.0,Midsize,Sedan,Twin-Turbo,AWD,automatic,503.0,479.0
+BMW,74700.0,Midsize,Coupe,Twin-Turbo,RWD,manual,473.0,406.0
+BMW,78600.0,Midsize,Coupe,Twin-Turbo,RWD,automatic,503.0,479.0
+BMW,82700.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,503.0,479.0
+BMW,89700.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,503.0,479.0
+BMW,139900.0,Midsize,Coupe,Twin-Turbo,RWD,automatic,543.0,479.0
+BMW,107900.0,Large,Sedan,Twin-Turbo,AWD,automatic,600.0,553.0
+BMW,134100.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,617.0,553.0
+BMW,143700.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,617.0,553.0
+BMW,134100.0,Large,Sedan,Twin-Turbo,AWD,automatic,617.0,553.0
+BMW,38600.0,Compact,SUV,Turbocharged,AWD,automatic,241.0,295.0
+BMW,36600.0,Compact,SUV,Turbocharged,FWD,automatic,228.0,258.0
+BMW,38600.0,Compact,SUV,Turbocharged,AWD,automatic,228.0,258.0
+BMW,59950.0,Midsize,SUV,Turbocharged,AWD,automatic,382.0,369.0
+BMW,45400.0,Midsize,SUV,Turbocharged,RWD,automatic,248.0,258.0
+BMW,47400.0,Midsize,SUV,Turbocharged,AWD,automatic,248.0,258.0
+BMW,72900.0,Midsize,SUV,Twin-Turbo,AWD,automatic,473.0,457.0
+BMW,64650.0,Midsize,SUV,Turbocharged,AWD,automatic,382.0,369.0
+BMW,53400.0,Midsize,SUV,Turbocharged,AWD,automatic,248.0,258.0
+BMW,76400.0,Midsize,SUV,Twin-Turbo,AWD,automatic,473.0,457.0
+BMW,85400.0,Large,SUV,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,61600.0,Large,SUV,Turbocharged,RWD,automatic,335.0,331.0
+BMW,63900.0,Large,SUV,Turbocharged,AWD,automatic,335.0,331.0
+BMW,65700.0,Large,SUV,Turbocharged,AWD,automatic,389.0,443.0
+BMW,108900.0,Large,SUV,Twin-Turbo,AWD,automatic,600.0,553.0
+BMW,89100.0,Large,SUV,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,70100.0,Large,SUV,Turbocharged,AWD,automatic,335.0,331.0
+BMW,113700.0,Large,SUV,Twin-Turbo,AWD,automatic,600.0,553.0
+BMW,103100.0,Large,SUV,Twin-Turbo,AWD,automatic,523.0,553.0
+BMW,77850.0,Large,SUV,Turbocharged,AWD,automatic,375.0,398.0
+BMW,159000.0,Large,SUV,Twin-Turbo,AWD,automatic,644.0,590.0
+BMW,65300.0,Compact,Convertible,Turbocharged,RWD,automatic,382.0,369.0
+BMW,52800.0,Compact,Convertible,Turbocharged,RWD,automatic,255.0,295.0
+BMW,67300.0,Midsize,Sedan,Electric Motor,AWD,automatic,536.0,586.0
+BMW,51400.0,Midsize,Sedan,Electric Motor,RWD,automatic,281.0,295.0
+BMW,55900.0,Midsize,Sedan,Electric Motor,RWD,automatic,335.0,317.0
+BMW,119300.0,Large,Sedan,Electric Motor,AWD,automatic,536.0,549.0
+BMW,108900.0,Large,SUV,Electric Motor,AWD,automatic,610.0,811.0
+BMW,84100.0,Large,SUV,Electric Motor,AWD,automatic,516.0,564.0
+Bentley,231300.0,Large,SUV,Turbocharged,AWD,automatic,456.0,516.0
+Bentley,236900.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,197300.0,Large,SUV,Turbocharged,AWD,automatic,456.0,516.0
+Bentley,239300.0,Large,SUV,Turbocharged,AWD,automatic,456.0,516.0
+Bentley,225500.0,Large,SUV,Turbocharged,AWD,automatic,456.0,516.0
+Bentley,231100.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,264600.0,Large,SUV,Twin-Turbo,AWD,automatic,626.0,664.0
+Bentley,197300.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,263500.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,226900.0,Large,SUV,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,282800.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,306600.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,341900.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,650.0,664.0
+Bentley,266000.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,288500.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,650.0,664.0
+Bentley,235600.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,311000.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,326200.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,376100.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,650.0,664.0
+Bentley,292500.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,317300.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,650.0,664.0
+Bentley,259200.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,249100.0,Large,Sedan,Twin-Turbo,AWD,automatic,536.0,553.0
+Bentley,250300.0,Large,Sedan,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,214800.0,Large,Sedan,Twin-Turbo,AWD,automatic,536.0,553.0
+Bentley,297400.0,Large,Sedan,Twin-Turbo,AWD,automatic,536.0,553.0
+Bentley,299200.0,Large,Sedan,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,315200.0,Large,Sedan,Twin-Turbo,AWD,automatic,626.0,664.0
+Bentley,240500.0,Large,Sedan,Twin-Turbo,AWD,automatic,536.0,553.0
+Bentley,241200.0,Large,Sedan,Twin-Turbo,AWD,automatic,542.0,568.0
+Bentley,258700.0,Large,Sedan,Twin-Turbo,AWD,automatic,626.0,664.0
+Bentley,208600.0,Large,Sedan,Twin-Turbo,AWD,automatic,542.0,568.0
+Ford,48685.0,Midsize,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,46895.0,Compact,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,34095.0,Compact,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,34890.0,Compact,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,37745.0,Midsize,Convertible SUV,Turbocharged,4WD,automatic,300.0,325.0
+Ford,38540.0,Midsize,Convertible SUV,Turbocharged,4WD,automatic,300.0,325.0
+Ford,38085.0,Compact,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,38880.0,Compact,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,40370.0,Midsize,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,39575.0,Midsize,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,43035.0,Midsize,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,41545.0,Compact,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,40750.0,Compact,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,42240.0,Midsize,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,53895.0,Midsize,Convertible SUV,Turbocharged,4WD,automatic,300.0,325.0
+Ford,46295.0,Midsize,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,44305.0,Compact,Convertible SUV,Turbocharged,4WD,manual,300.0,325.0
+Ford,69185.0,Midsize,Convertible SUV,Twin-Turbo,4WD,automatic,330.0,415.0
+Ford,66895.0,Compact,Convertible SUV,Twin-Turbo,4WD,automatic,330.0,415.0
+Ford,45745.0,Midsize,Convertible SUV,Turbocharged,4WD,automatic,300.0,325.0
+Ford,43655.0,Compact,Convertible SUV,Turbocharged,4WD,automatic,300.0,325.0
+Ford,47335.0,Midsize,Convertible SUV,Turbocharged,4WD,automatic,300.0,325.0
+Ford,45245.0,Compact,Convertible SUV,Turbocharged,4WD,automatic,300.0,325.0
+Ford,76580.0,Midsize,Convertible SUV,Twin-Turbo,4WD,automatic,418.0,440.0
+Ford,55620.0,Midsize,Convertible SUV,Twin-Turbo,4WD,automatic,330.0,415.0
+Ford,54580.0,Compact,Convertible SUV,Twin-Turbo,4WD,automatic,330.0,415.0
+Ford,37340.0,Compact,SUV,Turbocharged,AWD,automatic,250.0,277.0
+Ford,29215.0,Compact,SUV,Turbocharged,AWD,automatic,181.0,190.0
+Ford,31230.0,Compact,SUV,Turbocharged,AWD,automatic,181.0,190.0
+Ford,32650.0,Compact,SUV,Turbocharged,AWD,automatic,181.0,190.0
+Ford,44655.0,Compact,SUV,Turbocharged,AWD,automatic,250.0,277.0
+Ford,35615.0,Compact,SUV,Turbocharged,AWD,automatic,181.0,190.0
+Ford,57810.0,Large,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,58970.0,Large,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,55000.0,Midsize,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,53790.0,Midsize,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,54555.0,Large,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,55770.0,Large,Cargo Van,Electric Motor,RWD,automatic,266.0,317.0
+Ford,37945.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,39345.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,46485.0,Midsize,SUV,Twin-Turbo,AWD,automatic,335.0,380.0
+Ford,43100.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,43100.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,31515.0,Midsize,SUV,Turbocharged,AWD,automatic,180.0,199.0
+Ford,29345.0,Midsize,SUV,Turbocharged,FWD,automatic,180.0,199.0
+Ford,33215.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,192.0,155.0
+Ford,31345.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,192.0,155.0
+Ford,28000.0,Midsize,SUV,Turbocharged,FWD,automatic,180.0,199.0
+Ford,29500.0,Midsize,SUV,Turbocharged,AWD,automatic,180.0,199.0
+Ford,36965.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,192.0,155.0
+Ford,38465.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,192.0,155.0
+Ford,37465.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,40500.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,210.0,155.0
+Ford,33340.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,192.0,155.0
+Ford,30340.0,Midsize,SUV,Turbocharged,FWD,automatic,180.0,199.0
+Ford,32510.0,Midsize,SUV,Turbocharged,AWD,automatic,180.0,199.0
+Ford,39460.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,192.0,155.0
+Ford,38460.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,34040.0,Midsize,SUV,Turbocharged,AWD,automatic,250.0,280.0
+Ford,35040.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,192.0,155.0
+Ford,78115.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,480.0
+Ford,81165.0,Large,SUV,Twin-Turbo,4WD,automatic,400.0,480.0
+Ford,68060.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,480.0
+Ford,71110.0,Large,SUV,Twin-Turbo,4WD,automatic,400.0,480.0
+Ford,81115.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,480.0
+Ford,84165.0,Large,SUV,Twin-Turbo,4WD,automatic,400.0,480.0
+Ford,74110.0,Large,SUV,Twin-Turbo,4WD,automatic,400.0,480.0
+Ford,71060.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,480.0
+Ford,83565.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,480.0
+Ford,86615.0,Large,SUV,Twin-Turbo,4WD,automatic,400.0,480.0
+Ford,58155.0,Large,SUV,Twin-Turbo,RWD,automatic,380.0,470.0
+Ford,61205.0,Large,SUV,Twin-Turbo,4WD,automatic,380.0,470.0
+Ford,62190.0,Large,SUV,Twin-Turbo,RWD,automatic,380.0,470.0
+Ford,65240.0,Large,SUV,Twin-Turbo,4WD,automatic,380.0,470.0
+Ford,80565.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,480.0
+Ford,83615.0,Large,SUV,Twin-Turbo,4WD,automatic,400.0,480.0
+Ford,71400.0,Large,SUV,Twin-Turbo,4WD,automatic,440.0,510.0
+Ford,54155.0,Large,SUV,Twin-Turbo,RWD,automatic,380.0,470.0
+Ford,57205.0,Large,SUV,Twin-Turbo,4WD,automatic,380.0,470.0
+Ford,55125.0,Large,SUV,Twin-Turbo,RWD,automatic,380.0,470.0
+Ford,58175.0,Large,SUV,Twin-Turbo,4WD,automatic,380.0,470.0
+Ford,59190.0,Large,SUV,Twin-Turbo,RWD,automatic,380.0,470.0
+Ford,62240.0,Large,SUV,Twin-Turbo,4WD,automatic,380.0,470.0
+Ford,36760.0,Large,SUV,Turbocharged,RWD,automatic,300.0,310.0
+Ford,38760.0,Large,SUV,Turbocharged,AWD,automatic,300.0,310.0
+Ford,56075.0,Large,SUV,Twin-Turbo,AWD,automatic,400.0,415.0
+Ford,54075.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,415.0
+Ford,49070.0,Large,SUV,Turbocharged,AWD,automatic,300.0,310.0
+Ford,47070.0,Large,SUV,Turbocharged,RWD,automatic,300.0,310.0
+Ford,53005.0,Large,SUV,Naturally Aspirated,RWD,automatic,318.0,322.0
+Ford,55005.0,Large,SUV,Naturally Aspirated,AWD,automatic,318.0,322.0
+Ford,56220.0,Large,SUV,Twin-Turbo,AWD,automatic,400.0,415.0
+Ford,54220.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,415.0
+Ford,53820.0,Large,SUV,Naturally Aspirated,RWD,automatic,318.0,322.0
+Ford,55820.0,Large,SUV,Naturally Aspirated,AWD,automatic,318.0,322.0
+Ford,52005.0,Large,SUV,Twin-Turbo,AWD,automatic,400.0,415.0
+Ford,50005.0,Large,SUV,Twin-Turbo,RWD,automatic,400.0,415.0
+Ford,46005.0,Large,SUV,Turbocharged,RWD,automatic,300.0,310.0
+Ford,48005.0,Large,SUV,Turbocharged,AWD,automatic,300.0,310.0
+Ford,48980.0,Large,SUV,Turbocharged,AWD,automatic,300.0,310.0
+Ford,38570.0,Large,SUV,Turbocharged,RWD,automatic,300.0,310.0
+Ford,40570.0,Large,SUV,Turbocharged,AWD,automatic,300.0,310.0
+Ford,67100.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,63310.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,400.0,410.0
+Ford,66805.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,63005.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,400.0,410.0
+Ford,61270.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,325.0,400.0
+Ford,57730.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,62995.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,57480.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,84910.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,430.0,570.0
+Ford,68490.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,64695.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,400.0,410.0
+Ford,65000.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,400.0,410.0
+Ford,68795.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,76775.0,Large,Pickup Truck,Twin-Turbo,4WD,automatic,450.0,510.0
+Ford,107350.0,Large,Pickup Truck,Supercharged,4WD,automatic,700.0,640.0
+Ford,61110.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,39600.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,290.0,265.0
+Ford,45410.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,290.0,265.0
+Ford,41530.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,290.0,265.0
+Ford,48225.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,42930.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,42995.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,290.0,265.0
+Ford,34885.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,290.0,265.0
+Ford,39195.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,290.0,265.0
+Ford,40590.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,45810.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,39900.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,290.0,265.0
+Ford,34585.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,290.0,265.0
+Ford,53045.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,47800.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,290.0,265.0
+Ford,50220.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,290.0,265.0
+Ford,46360.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,290.0,265.0
+Ford,47750.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,44550.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,290.0,265.0
+Ford,50620.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,410.0
+Ford,44855.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,290.0,265.0
+Ford,41055.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,290.0,265.0
+Ford,44000.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,290.0,265.0
+Ford,45400.0,Large,Pickup Truck,Twin-Turbo,RWD,automatic,325.0,400.0
+Ford,40760.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,290.0,265.0
+Ford,69995.0,Large,Pickup Truck,Electric Motor,4WD,automatic,426.0,775.0
+Ford,91995.0,Large,Pickup Truck,Electric Motor,4WD,automatic,563.0,775.0
+Ford,49995.0,Large,Pickup Truck,Electric Motor,4WD,automatic,426.0,775.0
+Ford,54995.0,Large,Pickup Truck,Electric Motor,4WD,automatic,426.0,775.0
+Ford,76175.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,75975.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,63740.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,61410.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,63940.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,61610.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,96095.0,Large,Pickup Truck,Turbocharged,4WD,automatic,500.0,120.0
+Ford,96295.0,Large,Pickup Truck,Turbocharged,4WD,automatic,500.0,120.0
+Ford,76865.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,77065.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,50560.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,47960.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,50770.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,47760.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,46505.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,46305.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,49095.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,43970.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,46760.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,49305.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,54715.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,54510.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,50105.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,52755.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,52955.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,77025.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,77220.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,78160.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,64790.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,64990.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,62460.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,62660.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,66480.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,64145.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,97470.0,Large,Pickup Truck,Turbocharged,4WD,automatic,500.0,120.0
+Ford,97270.0,Large,Pickup Truck,Turbocharged,4WD,automatic,500.0,120.0
+Ford,99280.0,Large,Pickup Truck,Turbocharged,4WD,automatic,500.0,120.0
+Ford,78115.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,77915.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,80145.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,51620.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,48815.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,51815.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,47555.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,47345.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,50345.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,50155.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,47815.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,49015.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,49045.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,49305.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,45015.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,51830.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,50500.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,53300.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,405.0,445.0
+Ford,46505.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,405.0,445.0
+Ford,55560.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,55760.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,54010.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,53800.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,56610.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,54840.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,51160.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,52115.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,430.0,485.0
+Ford,91090.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,78665.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,103030.0,Large,Pickup Truck,Turbocharged,4WD,automatic,500.0,120.0
+Ford,92535.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,66925.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,58455.0,Large,Pickup Truck,Turbocharged,RWD,automatic,475.0,105.0
+Ford,63455.0,Large,Pickup Truck,Turbocharged,RWD,automatic,475.0,105.0
+Ford,61765.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,69035.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,65695.0,Large,Pickup Truck,Turbocharged,4WD,automatic,475.0,105.0
+Ford,28355.0,Compact,Pickup Truck,Naturally Aspirated,FWD,automatic,191.0,300.0
+Ford,22595.0,Compact,Pickup Truck,Naturally Aspirated,FWD,automatic,191.0,300.0
+Ford,24855.0,Compact,Pickup Truck,Naturally Aspirated,FWD,automatic,191.0,300.0
+Ford,27770.0,Midsize,Coupe,Turbocharged,RWD,manual,310.0,350.0
+Ford,33270.0,Midsize,Convertible,Turbocharged,RWD,manual,310.0,350.0
+Ford,38295.0,Midsize,Convertible,Turbocharged,RWD,manual,310.0,350.0
+Ford,32795.0,Midsize,Coupe,Turbocharged,RWD,manual,310.0,350.0
+Ford,38345.0,Midsize,Coupe,Naturally Aspirated,RWD,manual,460.0,420.0
+Ford,48865.0,Midsize,Convertible,Naturally Aspirated,RWD,manual,460.0,420.0
+Ford,43365.0,Midsize,Coupe,Naturally Aspirated,RWD,manual,460.0,420.0
+Ford,55570.0,Midsize,Coupe,Naturally Aspirated,RWD,manual,480.0,420.0
+Ford,56995.0,Midsize,Hatchback,Electric Motor,AWD,automatic,346.0,428.0
+Ford,59995.0,Midsize,Hatchback,Electric Motor,AWD,automatic,480.0,600.0
+Ford,46995.0,Midsize,Hatchback,Electric Motor,RWD,automatic,266.0,317.0
+Ford,49995.0,Midsize,Hatchback,Electric Motor,AWD,automatic,266.0,428.0
+Ford,46995.0,Midsize,Hatchback,Electric Motor,RWD,automatic,266.0,317.0
+Ford,49995.0,Midsize,Hatchback,Electric Motor,AWD,automatic,311.0,427.0
+Ford,42995.0,Midsize,Hatchback,Electric Motor,RWD,automatic,266.0,317.0
+Ford,45995.0,Midsize,Hatchback,Electric Motor,AWD,automatic,266.0,428.0
+Ford,42995.0,Midsize,Hatchback,Electric Motor,RWD,automatic,266.0,317.0
+Ford,45995.0,Midsize,Hatchback,Electric Motor,AWD,automatic,311.0,427.0
+Ford,37460.0,Compact,Pickup Truck,Turbocharged,RWD,automatic,270.0,310.0
+Ford,40945.0,Compact,Pickup Truck,Turbocharged,4WD,automatic,270.0,310.0
+Ford,35500.0,Compact,Pickup Truck,Turbocharged,RWD,automatic,270.0,310.0
+Ford,38985.0,Compact,Pickup Truck,Turbocharged,4WD,automatic,270.0,310.0
+Ford,27400.0,Compact,Pickup Truck,Turbocharged,RWD,automatic,270.0,310.0
+Ford,31045.0,Compact,Pickup Truck,Turbocharged,4WD,automatic,270.0,310.0
+Ford,29585.0,Compact,Pickup Truck,Turbocharged,RWD,automatic,270.0,310.0
+Ford,33230.0,Compact,Pickup Truck,Turbocharged,4WD,automatic,270.0,310.0
+Ford,33420.0,Compact,Pickup Truck,Turbocharged,RWD,automatic,270.0,310.0
+Ford,36905.0,Compact,Pickup Truck,Turbocharged,4WD,automatic,270.0,310.0
+Ford,31460.0,Compact,Pickup Truck,Turbocharged,RWD,automatic,270.0,310.0
+Ford,34945.0,Compact,Pickup Truck,Turbocharged,4WD,automatic,270.0,310.0
+Ford,43230.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,41955.0,Midsize,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,47925.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,46650.0,Midsize,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,47475.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,42780.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,48745.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,44055.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,51845.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,47155.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,53070.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,48375.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,48875.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,44175.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,47600.0,Midsize,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,42905.0,Midsize,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,48425.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,43730.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,45005.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,49700.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,50220.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,55305.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,50570.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,57115.0,Large,Cargo Van,Twin-Turbo,AWD,automatic,310.0,400.0
+Ford,52575.0,Large,Cargo Van,Twin-Turbo,RWD,automatic,310.0,400.0
+Ford,58160.0,Large,Cargo Van,Twin-Turbo,AWD,automatic,310.0,400.0
+Ford,48405.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,53100.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,54320.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,49625.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,48945.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,53640.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,54860.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,50165.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,48850.0,Midsize,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,50125.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,45430.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,44155.0,Midsize,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,45970.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,50660.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,44975.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,50945.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,46255.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,49675.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,51490.0,Large,Cargo Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,46790.0,Large,Cargo Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,32790.0,Compact,Cargo Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,32790.0,Compact,Cargo Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,33790.0,Large,Cargo Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,33790.0,Large,Cargo Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,34965.0,Compact,Cargo Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,34965.0,Compact,Cargo Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,35965.0,Large,Cargo Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,35965.0,Large,Cargo Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,38560.0,Compact,Passenger Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,34360.0,Compact,Passenger Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,34360.0,Compact,Passenger Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,36475.0,Compact,Passenger Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,36475.0,Compact,Passenger Minivan,Naturally Aspirated,FWD,automatic,162.0,144.0
+Ford,44320.0,Midsize,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,50285.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,49015.0,Midsize,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,45590.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,45140.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,51115.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,49840.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,46420.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,54210.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,49515.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,49965.0,Midsize,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,51240.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,45265.0,Midsize,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,46545.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,47370.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,46090.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,50785.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,52065.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,52930.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,57275.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,59085.0,Large,Passenger Van,Twin-Turbo,AWD,automatic,310.0,400.0
+Ford,52575.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,55465.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,50770.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,51215.0,Midsize,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,46520.0,Midsize,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,52485.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,47790.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,53315.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,48620.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,52040.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,47340.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,58900.0,Large,Passenger Van,Twin-Turbo,AWD,automatic,310.0,400.0
+Ford,52270.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,54765.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,61405.0,Large,Passenger Van,Twin-Turbo,AWD,automatic,310.0,400.0
+Ford,51205.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,55900.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,48630.0,Midsize,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,53325.0,Midsize,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,54455.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,49760.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,53715.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,58405.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,55835.0,Midsize,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Ford,51140.0,Midsize,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,52265.0,Large,Passenger Van,Naturally Aspirated,RWD,automatic,275.0,260.0
+Ford,56955.0,Large,Passenger Van,Naturally Aspirated,AWD,automatic,275.0,260.0
+Mercedes-Benz,95900.0,Large,Sedan,Turbocharged,AWD,automatic,362.0,369.0
+Mercedes-Benz,106700.0,Large,Sedan,Twincharged,AWD,automatic,429.0,384.0
+Mercedes-Benz,149200.0,Large,Sedan,Twin-Turbo,AWD,automatic,577.0,590.0
+Mercedes-Benz,170350.0,Large,Sedan,Twin-Turbo,AWD,automatic,630.0,664.0
+Mercedes-Benz,62600.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,385.0,384.0
+Mercedes-Benz,69250.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,385.0,384.0
+Mercedes-Benz,59900.0,Midsize,Sedan,Turbocharged,AWD,automatic,402.0,369.0
+Mercedes-Benz,81850.0,Midsize,Coupe,Twin-Turbo,RWD,automatic,503.0,516.0
+Mercedes-Benz,90000.0,Midsize,Convertible,Twin-Turbo,RWD,automatic,503.0,516.0
+Mercedes-Benz,44850.0,Midsize,Sedan,Turbocharged,RWD,automatic,255.0,295.0
+Mercedes-Benz,49550.0,Midsize,Coupe,Turbocharged,RWD,automatic,255.0,273.0
+Mercedes-Benz,57250.0,Midsize,Convertible,Turbocharged,RWD,automatic,255.0,273.0
+Mercedes-Benz,46850.0,Midsize,Sedan,Turbocharged,AWD,automatic,255.0,295.0
+Mercedes-Benz,51550.0,Midsize,Coupe,Turbocharged,AWD,automatic,255.0,273.0
+Mercedes-Benz,59250.0,Midsize,Convertible,Turbocharged,AWD,automatic,255.0,273.0
+Mercedes-Benz,49500.0,Midsize,Sedan,Turbocharged,AWD,automatic,302.0,295.0
+Mercedes-Benz,57800.0,Midsize,Sedan,Turbocharged,AWD,automatic,382.0,354.0
+Mercedes-Benz,39350.0,Midsize,Sedan,Turbocharged,FWD,automatic,221.0,258.0
+Mercedes-Benz,41350.0,Midsize,Sedan,Turbocharged,AWD,automatic,221.0,258.0
+Mercedes-Benz,76500.0,Large,Sedan,Turbocharged,AWD,automatic,362.0,369.0
+Mercedes-Benz,91500.0,Midsize,Convertible,Twincharged,AWD,automatic,429.0,384.0
+Mercedes-Benz,81300.0,Large,Sedan,Twincharged,AWD,automatic,429.0,384.0
+Mercedes-Benz,84500.0,Midsize,Coupe,Twincharged,AWD,automatic,429.0,384.0
+Mercedes-Benz,112800.0,Large,Sedan,Twin-Turbo,AWD,automatic,603.0,627.0
+Mercedes-Benz,121100.0,Large,Wagon,Twin-Turbo,AWD,automatic,603.0,627.0
+Mercedes-Benz,56750.0,Large,Sedan,Turbocharged,RWD,automatic,255.0,273.0
+Mercedes-Benz,59250.0,Large,Sedan,Turbocharged,AWD,automatic,255.0,273.0
+Mercedes-Benz,69750.0,Midsize,Coupe,Turbocharged,RWD,automatic,362.0,369.0
+Mercedes-Benz,76900.0,Midsize,Convertible,Turbocharged,RWD,automatic,362.0,369.0
+Mercedes-Benz,65550.0,Large,Sedan,Turbocharged,AWD,automatic,362.0,369.0
+Mercedes-Benz,72250.0,Midsize,Coupe,Turbocharged,AWD,automatic,362.0,369.0
+Mercedes-Benz,79550.0,Midsize,Convertible,Turbocharged,AWD,automatic,362.0,369.0
+Mercedes-Benz,71250.0,Large,Wagon,Turbocharged,AWD,automatic,362.0,369.0
+Mercedes-Benz,52750.0,Midsize,SUV,Electric Motor,FWD,automatic,188.0,284.0
+Mercedes-Benz,56900.0,Midsize,SUV,Electric Motor,AWD,automatic,225.0,288.0
+Mercedes-Benz,60550.0,Midsize,SUV,Electric Motor,AWD,automatic,288.0,384.0
+Mercedes-Benz,106900.0,Large,Sedan,Electric Motor,AWD,automatic,617.0,701.0
+Mercedes-Benz,77900.0,Large,Sedan,Electric Motor,AWD,automatic,288.0,564.0
+Mercedes-Benz,74900.0,Large,Sedan,Electric Motor,RWD,automatic,288.0,417.0
+Mercedes-Benz,85900.0,Large,Sedan,Electric Motor,AWD,automatic,402.0,633.0
+Mercedes-Benz,77900.0,Large,SUV,Electric Motor,AWD,automatic,288.0,564.0
+Mercedes-Benz,77900.0,Large,SUV,Electric Motor,RWD,automatic,288.0,417.0
+Mercedes-Benz,89500.0,Large,SUV,Electric Motor,AWD,automatic,402.0,633.0
+Mercedes-Benz,147550.0,Large,Sedan,Electric Motor,AWD,automatic,649.0,700.0
+Mercedes-Benz,107400.0,Large,Sedan,Electric Motor,AWD,automatic,355.0,590.0
+Mercedes-Benz,104400.0,Large,Sedan,Electric Motor,RWD,automatic,329.0,417.0
+Mercedes-Benz,125950.0,Large,Sedan,Electric Motor,AWD,automatic,516.0,631.0
+Mercedes-Benz,107400.0,Large,SUV,Electric Motor,AWD,automatic,355.0,590.0
+Mercedes-Benz,104400.0,Large,SUV,Electric Motor,RWD,automatic,355.0,419.0
+Mercedes-Benz,125950.0,Large,SUV,Electric Motor,AWD,automatic,536.0,633.0
+Mercedes-Benz,179000.0,Midsize,SUV,Twin-Turbo,4WD,automatic,577.0,627.0
+Mercedes-Benz,349000.0,Midsize,SUV,Twin-Turbo,4WD,automatic,577.0,627.0
+Mercedes-Benz,139900.0,Midsize,SUV,Twin-Turbo,4WD,automatic,416.0,450.0
+Mercedes-Benz,49500.0,Compact,SUV,Turbocharged,AWD,automatic,302.0,295.0
+Mercedes-Benz,56650.0,Compact,SUV,Turbocharged,AWD,automatic,382.0,354.0
+Mercedes-Benz,37500.0,Compact,SUV,Turbocharged,FWD,automatic,221.0,258.0
+Mercedes-Benz,39500.0,Compact,SUV,Turbocharged,AWD,automatic,221.0,258.0
+Mercedes-Benz,51500.0,Midsize,SUV,Turbocharged,AWD,automatic,302.0,295.0
+Mercedes-Benz,39800.0,Midsize,SUV,Turbocharged,FWD,automatic,221.0,258.0
+Mercedes-Benz,41800.0,Midsize,SUV,Turbocharged,AWD,automatic,221.0,258.0
+Mercedes-Benz,47100.0,Midsize,SUV,Turbocharged,RWD,automatic,255.0,295.0
+Mercedes-Benz,49100.0,Midsize,SUV,Turbocharged,AWD,automatic,255.0,295.0
+Mercedes-Benz,68200.0,Midsize,SUV,Twin-Turbo,AWD,automatic,385.0,384.0
+Mercedes-Benz,54700.0,Midsize,SUV,Turbocharged,AWD,automatic,255.0,273.0
+Mercedes-Benz,76950.0,Large,SUV,Twincharged,AWD,automatic,429.0,384.0
+Mercedes-Benz,120000.0,Large,SUV,Twin-Turbo,AWD,automatic,603.0,627.0
+Mercedes-Benz,57700.0,Large,SUV,Turbocharged,RWD,automatic,255.0,273.0
+Mercedes-Benz,60200.0,Large,SUV,Turbocharged,AWD,automatic,255.0,273.0
+Mercedes-Benz,66450.0,Large,SUV,Turbocharged,AWD,automatic,362.0,369.0
+Mercedes-Benz,83850.0,Large,SUV,Twin-Turbo,AWD,automatic,483.0,516.0
+Mercedes-Benz,81200.0,Large,SUV,Twincharged,AWD,automatic,429.0,384.0
+Mercedes-Benz,120700.0,Large,SUV,Twin-Turbo,AWD,automatic,603.0,627.0
+Mercedes-Benz,139000.0,Large,SUV,Twincharged,AWD,automatic,603.0,627.0
+Mercedes-Benz,81800.0,Large,SUV,Turbocharged,AWD,automatic,362.0,369.0
+Mercedes-Benz,105000.0,Large,SUV,Twin-Turbo,AWD,automatic,483.0,516.0
+Mercedes-Benz,193400.0,Large,Sedan,Twin-Turbo,AWD,automatic,496.0,516.0
+Mercedes-Benz,229000.0,Large,Sedan,Twin-Turbo,AWD,automatic,621.0,664.0
+Mercedes-Benz,170000.0,Large,SUV,Twin-Turbo,AWD,automatic,550.0,538.0
+Mercedes-Benz,39600.0,Large,Cargo Minivan,Turbocharged,RWD,automatic,208.0,258.0
+Mercedes-Benz,40200.0,Large,Cargo Minivan,Turbocharged,RWD,automatic,208.0,258.0
+Mercedes-Benz,43600.0,Large,Passenger Minivan,Turbocharged,RWD,automatic,208.0,258.0
+Mercedes-Benz,114500.0,Large,Sedan,Twincharged,AWD,automatic,429.0,384.0
+Mercedes-Benz,124000.0,Large,Sedan,Twin-Turbo,AWD,automatic,496.0,516.0
+Mercedes-Benz,120500.0,Large,Sedan,Turbocharged,AWD,automatic,510.0,553.0
+Mercedes-Benz,109900.0,Midsize,Convertible,Turbocharged,RWD,automatic,375.0,354.0
+Mercedes-Benz,141300.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,469.0,516.0
+Mercedes-Benz,183000.0,Midsize,Convertible,Twin-Turbo,AWD,automatic,577.0,590.0
+Mercedes-Benz,43500.0,Large,Cargo Van,Turbocharged,RWD,automatic,188.0,258.0
+Mercedes-Benz,48700.0,Compact,Passenger Van,Turbocharged,RWD,automatic,188.0,258.0
+Mercedes-Benz,44500.0,Large,Cargo Van,Turbocharged,RWD,automatic,188.0,258.0
+Mercedes-Benz,47000.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,56050.0,Large,Cargo Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,49650.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,51850.0,Midsize,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,49200.0,Midsize,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,46700.0,Midsize,Passenger Van,Turbocharged,RWD,automatic,188.0,258.0
+Mercedes-Benz,58250.0,Midsize,Passenger Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,61660.0,Compact,Passenger Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,55260.0,Compact,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,50110.0,Compact,Passenger Van,Turbocharged,RWD,automatic,188.0,258.0
+Mercedes-Benz,52610.0,Compact,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,53290.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,64590.0,Large,Cargo Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,58190.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,55540.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,62340.0,Large,Cargo Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,55940.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,50790.0,Large,Cargo Van,Turbocharged,RWD,automatic,188.0,258.0
+Mercedes-Benz,56100.0,Large,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,53600.0,Large,Passenger Van,Turbocharged,RWD,automatic,188.0,258.0
+Mercedes-Benz,65150.0,Large,Passenger Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,58750.0,Large,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,61510.0,Compact,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,64160.0,Compact,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,52470.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,49820.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,54670.0,Midsize,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,52020.0,Midsize,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,58690.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,60940.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,56040.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,58290.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,58850.0,Large,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,61500.0,Large,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,55220.0,Midsize,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,61550.0,Midsize,Cargo Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,52570.0,Midsize,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,57420.0,Midsize,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,63750.0,Midsize,Passenger Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,54770.0,Midsize,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,67840.0,Large,Cargo Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,61040.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,70090.0,Large,Cargo Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,63690.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,58790.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,61440.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,64250.0,Large,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,61600.0,Large,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,70650.0,Large,Passenger Van,Turbocharged,AWD,automatic,211.0,332.0
+Mercedes-Benz,57620.0,Midsize,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,54970.0,Midsize,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,59820.0,Midsize,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,57170.0,Midsize,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,63440.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,61190.0,Large,Cargo Van,Turbocharged,RWD,automatic,170.0,295.0
+Mercedes-Benz,63840.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,66090.0,Large,Cargo Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,66650.0,Large,Passenger Van,Turbocharged,RWD,automatic,211.0,332.0
+Mercedes-Benz,64000.0,Large,Passenger Van,Turbocharged,RWD,automatic,170.0,295.0
+Nissan,53690.0,Midsize,SUV,Electric Motor,FWD,automatic,238.0,221.0
+Nissan,43190.0,Midsize,SUV,Electric Motor,FWD,automatic,214.0,221.0
+Nissan,47190.0,Midsize,SUV,Electric Motor,AWD,automatic,335.0,413.0
+Nissan,51190.0,Midsize,SUV,Electric Motor,AWD,automatic,389.0,442.0
+Nissan,50190.0,Midsize,SUV,Electric Motor,FWD,automatic,238.0,221.0
+Nissan,54190.0,Midsize,SUV,Electric Motor,AWD,automatic,389.0,442.0
+Nissan,60190.0,Midsize,SUV,Electric Motor,AWD,automatic,389.0,442.0
+Nissan,60190.0,Midsize,SUV,Electric Motor,AWD,automatic,389.0,442.0
+Nissan,54690.0,Midsize,SUV,Electric Motor,FWD,automatic,238.0,221.0
+Nissan,47190.0,Midsize,SUV,Electric Motor,FWD,automatic,238.0,221.0
+Nissan,25630.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,188.0,180.0
+Nissan,33830.0,Midsize,Sedan,Naturally Aspirated,AWD,automatic,182.0,178.0
+Nissan,32330.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,188.0,180.0
+Nissan,27830.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,188.0,180.0
+Nissan,29330.0,Midsize,Sedan,Naturally Aspirated,AWD,automatic,182.0,178.0
+Nissan,27930.0,Midsize,Sedan,Naturally Aspirated,AWD,automatic,182.0,178.0
+Nissan,26430.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,188.0,180.0
+Nissan,35330.0,Midsize,Sedan,Turbocharged,FWD,automatic,248.0,273.0
+Nissan,70370.0,Large,SUV,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,67370.0,Large,SUV,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,50700.0,Large,SUV,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,53700.0,Large,SUV,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,59120.0,Large,SUV,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,62120.0,Large,SUV,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,55300.0,Large,SUV,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,58300.0,Large,SUV,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,38720.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,39100.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,35720.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,36100.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,29190.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,32390.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,30490.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,33490.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,33870.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,29570.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,32770.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,30870.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,35090.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,31890.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,33290.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,36290.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,39120.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,36120.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,36500.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,36670.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,39500.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,33670.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,32270.0,Compact,Pickup Truck,Naturally Aspirated,RWD,automatic,310.0,281.0
+Nissan,35470.0,Compact,Pickup Truck,Naturally Aspirated,4WD,automatic,310.0,281.0
+Nissan,215740.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,600.0,481.0
+Nissan,116040.0,Midsize,Coupe,Twin-Turbo,AWD,automatic,565.0,467.0
+Nissan,20590.0,Compact,Hatchback,Naturally Aspirated,FWD,automatic,122.0,114.0
+Nissan,23150.0,Compact,Hatchback,Naturally Aspirated,FWD,automatic,122.0,114.0
+Nissan,22450.0,Compact,Hatchback,Naturally Aspirated,FWD,automatic,122.0,114.0
+Nissan,28040.0,Compact,Hatchback,Electric Motor,FWD,automatic,147.0,236.0
+Nissan,36040.0,Compact,Hatchback,Electric Motor,FWD,automatic,214.0,250.0
+Nissan,44450.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,300.0,261.0
+Nissan,43500.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,300.0,261.0
+Nissan,38340.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,300.0,261.0
+Nissan,45710.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,260.0,240.0
+Nissan,47410.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,260.0,240.0
+Nissan,34160.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,260.0,240.0
+Nissan,35860.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,260.0,240.0
+Nissan,41660.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,260.0,240.0
+Nissan,43360.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,260.0,240.0
+Nissan,37700.0,Midsize,SUV,Naturally Aspirated,FWD,automatic,260.0,240.0
+Nissan,39400.0,Midsize,SUV,Naturally Aspirated,AWD,automatic,260.0,240.0
+Nissan,50190.0,Large,SUV,Naturally Aspirated,4WD,automatic,284.0,259.0
+Nissan,48290.0,Large,SUV,Naturally Aspirated,FWD,automatic,284.0,259.0
+Nissan,43140.0,Large,SUV,Naturally Aspirated,4WD,automatic,295.0,270.0
+Nissan,35320.0,Large,SUV,Naturally Aspirated,FWD,automatic,284.0,259.0
+Nissan,37220.0,Large,SUV,Naturally Aspirated,4WD,automatic,284.0,259.0
+Nissan,43640.0,Large,SUV,Naturally Aspirated,4WD,automatic,284.0,259.0
+Nissan,41740.0,Large,SUV,Naturally Aspirated,FWD,automatic,284.0,259.0
+Nissan,38140.0,Large,SUV,Naturally Aspirated,FWD,automatic,284.0,259.0
+Nissan,40040.0,Large,SUV,Naturally Aspirated,4WD,automatic,284.0,259.0
+Nissan,37140.0,Midsize,SUV,Turbocharged,FWD,automatic,201.0,225.0
+Nissan,38640.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,225.0
+Nissan,39090.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,225.0
+Nissan,37590.0,Midsize,SUV,Turbocharged,FWD,automatic,201.0,225.0
+Nissan,27360.0,Midsize,SUV,Turbocharged,FWD,automatic,201.0,225.0
+Nissan,28860.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,225.0
+Nissan,29510.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,225.0
+Nissan,28010.0,Midsize,SUV,Turbocharged,FWD,automatic,201.0,225.0
+Nissan,33710.0,Midsize,SUV,Turbocharged,FWD,automatic,201.0,225.0
+Nissan,35210.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,225.0
+Nissan,35660.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,225.0
+Nissan,34160.0,Midsize,SUV,Turbocharged,FWD,automatic,201.0,225.0
+Nissan,30550.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,225.0
+Nissan,29050.0,Midsize,SUV,Turbocharged,FWD,automatic,201.0,225.0
+Nissan,31200.0,Midsize,SUV,Turbocharged,AWD,automatic,201.0,225.0
+Nissan,29700.0,Midsize,SUV,Turbocharged,FWD,automatic,201.0,225.0
+Nissan,20200.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,149.0,146.0
+Nissan,23090.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,149.0,146.0
+Nissan,21420.0,Midsize,Sedan,Naturally Aspirated,FWD,automatic,149.0,146.0
+Nissan,53460.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,62630.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,59320.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,40350.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,43640.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,45330.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,42140.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,49020.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,45730.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,48840.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,45650.0,Large,Pickup Truck,Naturally Aspirated,RWD,automatic,400.0,413.0
+Nissan,57770.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,65720.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,47990.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,51810.0,Large,Pickup Truck,Naturally Aspirated,4WD,automatic,400.0,413.0
+Nissan,15980.0,Compact,Sedan,Naturally Aspirated,FWD,manual,122.0,114.0
+Nissan,17650.0,Compact,Sedan,Naturally Aspirated,FWD,automatic,122.0,114.0
+Nissan,19970.0,Compact,Sedan,Naturally Aspirated,FWD,automatic,122.0,114.0
+Nissan,19270.0,Compact,Sedan,Naturally Aspirated,FWD,automatic,122.0,114.0
+Nissan,50990.0,Compact,Coupe,Twin-Turbo,RWD,manual,400.0,350.0
+Nissan,50990.0,Compact,Coupe,Twin-Turbo,RWD,automatic,400.0,350.0
+Nissan,53990.0,Compact,Coupe,Twin-Turbo,RWD,automatic,400.0,350.0
+Nissan,53990.0,Compact,Coupe,Twin-Turbo,RWD,manual,400.0,350.0
+Nissan,40990.0,Compact,Coupe,Twin-Turbo,RWD,manual,400.0,350.0
+Nissan,40990.0,Compact,Coupe,Twin-Turbo,RWD,automatic,400.0,350.0
