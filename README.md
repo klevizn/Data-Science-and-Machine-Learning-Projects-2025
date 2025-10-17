@@ -6,7 +6,7 @@ Este es mi Repositorio de Proyectos de Ciencia de Datos y Machine Learning. Serv
 * **Análisis/Visualización:** Matplotlib, Seaborn, Tableau
 
   
-## 1. Predicción de Precios de Coches con Modelos de ML
+## 1. 🚘 Predicción de Precios de Coches con Modelos de ML
 * **Objetivo:** Desarrollar un modelo robusto para predecir precios de coches utilizando extraidos de internet
 * **Técnicas:** XGBoost, *Feature Selection*, *Pipeline* de preprocesamiento, encoding de variables categoricas y no categoricas, normalizacion de variables y aplilicacion web en streamlit.
-* ➡️ **[Ir a la carpeta del proyecto]()**
+
