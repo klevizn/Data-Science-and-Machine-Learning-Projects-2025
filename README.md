@@ -1,12 +1,24 @@
-# Data Science & Machine Learning Projects 2025
-Este es mi Repositorio de Proyectos de Ciencia de Datos y Machine Learning. Servirá como un portafolio vivo donde estaré subiendo y actualizando constantemente mis trabajos personales a lo largo del año 2025, demostrando mi evolución y aplicación práctica de nuevas técnicas de análisis y modelado
+# 📈 Data Science & Machine Learning Portfolio
 
-## Habilidades y Tecnologías Clave
-* **Lenguajes:** Python (Pandas, NumPy, Scikit-learn)
-* **Análisis/Visualización:** Matplotlib, Seaborn, Tableau
+Welcome! This repository serves as a **live portfolio** where I will be **constantly uploading and updating** my personal projects throughout **2025**. This collection is designed to showcase my evolution and the practical application of new techniques in data analysis and predictive modeling (Machine Learning).
 
-  
-## 1. 🚘 Predicción de Precios de Coches con Modelos de ML
-* **Objetivo:** Desarrollar un modelo robusto para predecir precios de coches utilizando extraidos de internet
-* **Técnicas:** XGBoost, *Feature Selection*, *Pipeline* de preprocesamiento, encoding de variables categoricas y no categoricas, normalizacion de variables y aplilicacion web en streamlit.
+## 🛠️ Key Skills & Technologies
 
+| Category | Tools & Libraries |
+| :--- | :--- |
+| **Languages** | Python (`Pandas`, `NumPy`, `Scikit-learn`) |
+| **Analysis/Visualization** | `Matplotlib`, `Seaborn`, `Tableau` |
+| **Machine Learning** | XGBoost, SVM, Linear Regresion |
+
+---
+
+## 🚀 Featured Project
+
+### 1. 🚘 Car Price Prediction using ML Models
+
+| | |
+| :--- | :--- |
+| **Objective** | To develop a robust Machine Learning model capable of accurately predicting car prices using data scraped/extracted from the internet. |
+| **Key Techniques** | **XGBoost** Regression, **Feature Selection**, Comprehensive data **preprocessing pipeline** (including handling categorical and non-categorical variables), Feature **Normalization**, and **Streamlit** web application deployment. |
+| **Status** | Complete / In Development (Choose applicable status) |
+| **Link** | ➡️ **[Go to Project Folder](enlace/a/proyecto_coches)** |
