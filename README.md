@@ -1,7 +1,7 @@
 # Data Science & Machine Learning Projects 2025
 Este es mi Repositorio de Proyectos de Ciencia de Datos y Machine Learning. Servirá como un portafolio vivo donde estaré subiendo y actualizando constantemente mis trabajos personales a lo largo del año 2025, demostrando mi evolución y aplicación práctica de nuevas técnicas de análisis y modelado
 
-## 🌟 Habilidades y Tecnologías Clave
+## Habilidades y Tecnologías Clave
 * **Lenguajes:** Python (Pandas, NumPy, Scikit-learn)
 * **Análisis/Visualización:** Matplotlib, Seaborn, Tableau
 
